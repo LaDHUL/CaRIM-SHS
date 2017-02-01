@@ -1,0 +1,59 @@
+<template name="header">
+  <div class="center aligned {{isActive}} header-wrapper jumbotron">
+    <h1>{{constant 'name'}}</h1>
+    <div class="well">
+      <p>{{constant 'description'}} </p>
+    </div>
+    <!--
+    <div class="col-xs-12">
+      <button id="toggle-login" class="login-button btn"><i class="fa {{iconClass}} fa-2"></i></button>
+    </div> -->
+    <div class="col-xs-12">
+      <br>
+    </div>
+    <div class="login col-xs-12 col-sm-6 col-sm-push-3">
+      {{#if showLogin}}
+      <div class="well">
+        {{#if currentUser}}
+
+        {{#if currentUser.profile.displayName}}
+        <h4 >
+          Bienvenue <br /><br/> {{currentUser.profile.displayName}}.
+        </h4>
+        {{/if}}
+
+        <div id="logout" class="btn">
+          <i class="fa fa-sign-out fa-2"></i>
+        </div>
+        {{else}}
+        {{> ldapLoginButtons}}
+        {{/if}}
+      </div>
+      {{/if}}
+    </div>
+  </div>
+</template>
+
+
+
+<template name="ldapLoginButtonsUNIL">
+  <p>Login Unil</p>
+  <br />
+  <input autocorrect="off" autocapitalize="none" placeholder="Nom utilisateur ou e-mail UNIL" name="ldap" id="at-field-email" class="form-control" type='text'>
+
+  <input autocorrect="off" autocapitalize="none" placeholder="Mot de passe" name="password" id="at-field-password" class="form-control" type="password">
+
+  <button class="btn btn-primary col-xs-12" id="login-buttons-password" type="button">
+    Log in
+  </button>
+
+  {{#if failedLogin}}
+  <div class="alert alert-danger">
+    Invalid sign in details
+  </div>
+  {{/if}}
+
+  <a  id="forgot-password-link" class="center" href="https://misc.unil.ch/webidm/flow/changement/changement-flow.htm" about="_blank">
+    Mot de passe oublié?
+  </a>
+</template>

@@ -1,0 +1,1286 @@
+[
+  {
+    "classe": "Administration Publique",
+    "name": "Administration Publique",
+    "groupe": "",
+    "sort": 1
+  },
+  {
+    "classe": "Administration Publique",
+    "name": "administration suisse",
+    "groupe": "",
+    "sort": 6
+  },
+  {
+    "classe": "Administration Publique",
+    "name": "économie de la régulation",
+    "groupe": "",
+    "sort": 11
+  },
+  {
+    "classe": "Administration Publique",
+    "name": "finances publiques",
+    "groupe": "",
+    "sort": 16
+  },
+  {
+    "classe": "Administration Publique",
+    "name": "gouvernance numérique",
+    "groupe": "",
+    "sort": 21
+  },
+  {
+    "classe": "Administration Publique",
+    "name": "management public et gestion des ressources humaines",
+    "groupe": "",
+    "sort": 26
+  },
+  {
+    "classe": "Administration Publique",
+    "name": "management public et marketing",
+    "groupe": "",
+    "sort": 31
+  },
+  {
+    "classe": "Administration Publique",
+    "name": "management public et systèmes d'information",
+    "groupe": "",
+    "sort": 36
+  },
+  {
+    "classe": "Administration Publique",
+    "name": "politiques institutionnelles",
+    "groupe": "",
+    "sort": 41
+  },
+  {
+    "classe": "Administration Publique",
+    "name": "politiques locales et évaluation des politiques publiques",
+    "groupe": "",
+    "sort": 46
+  },
+  {
+    "classe": "Administration Publique",
+    "name": "politiques publiques et durabilité",
+    "groupe": "",
+    "sort": 51
+  },
+  {
+    "classe": "Administration Publique",
+    "name": "politiques sociales",
+    "groupe": "",
+    "sort": 56
+  },
+  {
+    "classe": "Droit",
+    "name": "Droit",
+    "groupe": "",
+    "sort": 61
+  },
+  {
+    "classe": "Droit",
+    "name": "criminalité et sécurité des technologies de l'information",
+    "groupe": "",
+    "sort": 66
+  },
+  {
+    "classe": "Droit",
+    "name": "Droit administratif",
+    "groupe": "",
+    "sort": 71
+  },
+  {
+    "classe": "Droit",
+    "name": "Droit civil",
+    "groupe": "",
+    "sort": 76
+  },
+  {
+    "classe": "Droit",
+    "name": "Droit commercial",
+    "groupe": "",
+    "sort": 81
+  },
+  {
+    "classe": "Droit",
+    "name": "Droit constitutionnel",
+    "groupe": "",
+    "sort": 86
+  },
+  {
+    "classe": "Droit",
+    "name": "Droit des obligations",
+    "groupe": "",
+    "sort": 91
+  },
+  {
+    "classe": "Droit",
+    "name": "Droit des poursuites et faillites",
+    "groupe": "",
+    "sort": 96
+  },
+  {
+    "classe": "Droit",
+    "name": "Droit du travail et sécurité sociale",
+    "groupe": "",
+    "sort": 101
+  },
+  {
+    "classe": "Droit",
+    "name": "Droit européen",
+    "groupe": "",
+    "sort": 106
+  },
+  {
+    "classe": "Droit",
+    "name": "Droit fiscal",
+    "groupe": "",
+    "sort": 111
+  },
+  {
+    "classe": "Droit",
+    "name": "Droit international et comparé",
+    "groupe": "",
+    "sort": 116
+  },
+  {
+    "classe": "Droit",
+    "name": "Droit pénal",
+    "groupe": "",
+    "sort": 121
+  },
+  {
+    "classe": "Droit",
+    "name": "Droit public",
+    "groupe": "",
+    "sort": 126
+  },
+  {
+    "classe": "Droit",
+    "name": "Droit social",
+    "groupe": "",
+    "sort": 131
+  },
+  {
+    "classe": "Droit",
+    "name": "histoire du Droit",
+    "groupe": "",
+    "sort": 136
+  },
+  {
+    "classe": "Droit",
+    "name": "philosophie du Droit et théorie juridique",
+    "groupe": "",
+    "sort": 141
+  },
+  {
+    "classe": "Droit",
+    "name": "sociologie du Droit",
+    "groupe": "",
+    "sort": 146
+  },
+  {
+    "classe": "Géographie et Environnement (Géosciences)",
+    "name": "Géographie et Environnement (Géosciences)",
+    "groupe": "",
+    "sort": 151
+  },
+  {
+    "classe": "Géographie et Environnement (Géosciences)",
+    "name": "aménagement des alpes et géoconservation",
+    "groupe": "",
+    "sort": 156
+  },
+  {
+    "classe": "Géographie et Environnement (Géosciences)",
+    "name": "aménagement du territoire",
+    "groupe": "",
+    "sort": 161
+  },
+  {
+    "classe": "Géographie et Environnement (Géosciences)",
+    "name": "coorpération internationale",
+    "groupe": "",
+    "sort": 166
+  },
+  {
+    "classe": "Géographie et Environnement (Géosciences)",
+    "name": "développement et environnement",
+    "groupe": "",
+    "sort": 171
+  },
+  {
+    "classe": "Géographie et Environnement (Géosciences)",
+    "name": "durabilité",
+    "groupe": "",
+    "sort": 176
+  },
+  {
+    "classe": "Géographie et Environnement (Géosciences)",
+    "name": "écologie industrielle",
+    "groupe": "",
+    "sort": 181
+  },
+  {
+    "classe": "Géographie et Environnement (Géosciences)",
+    "name": "géographie économique",
+    "groupe": "",
+    "sort": 186
+  },
+  {
+    "classe": "Géographie et Environnement (Géosciences)",
+    "name": "gestion de l'eau",
+    "groupe": "",
+    "sort": 191
+  },
+  {
+    "classe": "Géographie et Environnement (Géosciences)",
+    "name": "mobilité et transports",
+    "groupe": "",
+    "sort": 196
+  },
+  {
+    "classe": "Géographie et Environnement (Géosciences)",
+    "name": "réseaux géographiques",
+    "groupe": "",
+    "sort": 201
+  },
+  {
+    "classe": "Géographie et Environnement (Géosciences)",
+    "name": "tourisme",
+    "groupe": "",
+    "sort": 206
+  },
+  {
+    "classe": "Géographie et Environnement (Géosciences)",
+    "name": "urbanisme",
+    "groupe": "",
+    "sort": 211
+  },
+  {
+    "classe": "Humanités Digitales / Numériques",
+    "name": "Humanités Digitales / Numériques",
+    "groupe": "",
+    "sort": 216
+  },
+  {
+    "classe": "Humanités Digitales / Numériques",
+    "name": "digital humanities pour les arts visuels",
+    "groupe": "",
+    "sort": 221
+  },
+  {
+    "classe": "Humanités Digitales / Numériques",
+    "name": "digital humanities pour les langues et la littérature",
+    "groupe": "",
+    "sort": 226
+  },
+  {
+    "classe": "Humanités Digitales / Numériques",
+    "name": "digital humanities pour les sciences historiques",
+    "groupe": "",
+    "sort": 231
+  },
+  {
+    "classe": "Informatique et Méthodes pour les SHS",
+    "name": "Informatique et Méthodes pour les SHS",
+    "groupe": "",
+    "sort": 236
+  },
+  {
+    "classe": "Informatique et Méthodes pour les SHS",
+    "name": "informatique pour la Psychologie",
+    "groupe": "",
+    "sort": 241
+  },
+  {
+    "classe": "Informatique et Méthodes pour les SHS",
+    "name": "informatique pour le Droit et les Sciences Criminelles",
+    "groupe": "",
+    "sort": 246
+  },
+  {
+    "classe": "Informatique et Méthodes pour les SHS",
+    "name": "informatique pour les géosciences",
+    "groupe": "",
+    "sort": 251
+  },
+  {
+    "classe": "Informatique et Méthodes pour les SHS",
+    "name": "informatique pour les sciences économiques",
+    "groupe": "",
+    "sort": 256
+  },
+  {
+    "classe": "Informatique et Méthodes pour les SHS",
+    "name": "informatique pour les Sciences Humaines",
+    "groupe": "",
+    "sort": 261
+  },
+  {
+    "classe": "Informatique et Méthodes pour les SHS",
+    "name": "informatique pour les Sciences Sociales et politiques",
+    "groupe": "",
+    "sort": 266
+  },
+  {
+    "classe": "Informatique et Méthodes pour les SHS",
+    "name": "mathématiques et statistiques pour la Psychologie",
+    "groupe": "",
+    "sort": 271
+  },
+  {
+    "classe": "Informatique et Méthodes pour les SHS",
+    "name": "mathématiques et statistiques pour le Droit et les Sciences Criminelles",
+    "groupe": "",
+    "sort": 276
+  },
+  {
+    "classe": "Informatique et Méthodes pour les SHS",
+    "name": "mathématiques et statistiques pour les géosciences",
+    "groupe": "",
+    "sort": 281
+  },
+  {
+    "classe": "Informatique et Méthodes pour les SHS",
+    "name": "mathématiques et statistiques pour les sciences économiques",
+    "groupe": "",
+    "sort": 286
+  },
+  {
+    "classe": "Informatique et Méthodes pour les SHS",
+    "name": "mathématiques et statistiques pour les Sciences Humaines",
+    "groupe": "",
+    "sort": 291
+  },
+  {
+    "classe": "Informatique et Méthodes pour les SHS",
+    "name": "mathématiques et statistiques pour les Sciences Sociales et politiques",
+    "groupe": "",
+    "sort": 296
+  },
+  {
+    "classe": "Informatique et Méthodes pour les SHS",
+    "name": "méthodes qualitatives pour la Psychologie",
+    "groupe": "",
+    "sort": 301
+  },
+  {
+    "classe": "Informatique et Méthodes pour les SHS",
+    "name": "méthodes qualitatives pour le Droit et les Sciences Criminelles",
+    "groupe": "",
+    "sort": 306
+  },
+  {
+    "classe": "Informatique et Méthodes pour les SHS",
+    "name": "méthodes qualitatives pour les géosciences",
+    "groupe": "",
+    "sort": 311
+  },
+  {
+    "classe": "Informatique et Méthodes pour les SHS",
+    "name": "méthodes qualitatives pour les sciences économiques",
+    "groupe": "",
+    "sort": 316
+  },
+  {
+    "classe": "Informatique et Méthodes pour les SHS",
+    "name": "méthodes qualitatives pour les Sciences Humaines",
+    "groupe": "",
+    "sort": 321
+  },
+  {
+    "classe": "Informatique et Méthodes pour les SHS",
+    "name": "méthodes qualitatives pour les Sciences Sociales et politiques",
+    "groupe": "",
+    "sort": 326
+  },
+  {
+    "classe": "Psychologie",
+    "name": "Psychologie",
+    "groupe": "",
+    "sort": 331
+  },
+  {
+    "classe": "Psychologie",
+    "name": "développement normal et atypique tout au long de la vie",
+    "groupe": "",
+    "sort": 336
+  },
+  {
+    "classe": "Psychologie",
+    "name": "identité (Psychologie)",
+    "groupe": "",
+    "sort": 341
+  },
+  {
+    "classe": "Psychologie",
+    "name": "processus d'apprentissage",
+    "groupe": "",
+    "sort": 346
+  },
+  {
+    "classe": "Psychologie",
+    "name": "Psychologie clinique",
+    "groupe": "",
+    "sort": 351
+  },
+  {
+    "classe": "Psychologie",
+    "name": "Psychologie cognitive",
+    "groupe": "",
+    "sort": 356
+  },
+  {
+    "classe": "Psychologie",
+    "name": "Psychologie de la religion",
+    "groupe": "",
+    "sort": 361
+  },
+  {
+    "classe": "Psychologie",
+    "name": "Psychologie de la santé",
+    "groupe": "",
+    "sort": 366
+  },
+  {
+    "classe": "Psychologie",
+    "name": "Psychologie du conseil et de l'orientation",
+    "groupe": "",
+    "sort": 371
+  },
+  {
+    "classe": "Psychologie",
+    "name": "Psychologie du développement",
+    "groupe": "",
+    "sort": 376
+  },
+  {
+    "classe": "Psychologie",
+    "name": "Psychologie du sport",
+    "groupe": "",
+    "sort": 381
+  },
+  {
+    "classe": "Psychologie",
+    "name": "Psychologie sociale",
+    "groupe": "",
+    "sort": 386
+  },
+  {
+    "classe": "Psychologie",
+    "name": "psychopathologie",
+    "groupe": "",
+    "sort": 391
+  },
+  {
+    "classe": "Psychologie",
+    "name": "relations interpersonnelles et intergroupes",
+    "groupe": "",
+    "sort": 396
+  },
+  {
+    "classe": "Psychologie",
+    "name": "situations éducatives et soins",
+    "groupe": "",
+    "sort": 401
+  },
+  {
+    "classe": "Sciences Criminelles",
+    "name": "Sciences Criminelles",
+    "groupe": "",
+    "sort": 406
+  },
+  {
+    "classe": "Sciences Criminelles",
+    "name": "criminalité",
+    "groupe": "",
+    "sort": 411
+  },
+  {
+    "classe": "Sciences Criminelles",
+    "name": "criminologie",
+    "groupe": "",
+    "sort": 416
+  },
+  {
+    "classe": "Sciences Criminelles",
+    "name": "cybercriminalité",
+    "groupe": "",
+    "sort": 421
+  },
+  {
+    "classe": "Sciences Criminelles",
+    "name": "identification et identité numériques",
+    "groupe": "",
+    "sort": 426
+  },
+  {
+    "classe": "Sciences Criminelles",
+    "name": "indices et traces forensiques",
+    "groupe": "",
+    "sort": 431
+  },
+  {
+    "classe": "Sciences Criminelles",
+    "name": "sécurité des technologies de l'information",
+    "groupe": "",
+    "sort": 436
+  },
+  {
+    "classe": "Sciences Criminelles",
+    "name": "trace et investigation numériques",
+    "groupe": "",
+    "sort": 441
+  },
+  {
+    "classe": "Sciences Economiques (HEC)",
+    "name": "Sciences Economiques (HEC)",
+    "groupe": "",
+    "sort": 446
+  },
+  {
+    "classe": "Sciences Economiques (HEC)",
+    "name": "assurances",
+    "groupe": "",
+    "sort": 451
+  },
+  {
+    "classe": "Sciences Economiques (HEC)",
+    "name": "commerce",
+    "groupe": "",
+    "sort": 456
+  },
+  {
+    "classe": "Sciences Economiques (HEC)",
+    "name": "comptabilité",
+    "groupe": "",
+    "sort": 461
+  },
+  {
+    "classe": "Sciences Economiques (HEC)",
+    "name": "e-business",
+    "groupe": "",
+    "sort": 466
+  },
+  {
+    "classe": "Sciences Economiques (HEC)",
+    "name": "économétrie",
+    "groupe": "",
+    "sort": 471
+  },
+  {
+    "classe": "Sciences Economiques (HEC)",
+    "name": "économie cognitive et neuroéconomie",
+    "groupe": "",
+    "sort": 476
+  },
+  {
+    "classe": "Sciences Economiques (HEC)",
+    "name": "économie comportementale",
+    "groupe": "",
+    "sort": 481
+  },
+  {
+    "classe": "Sciences Economiques (HEC)",
+    "name": "économie d'entreprise",
+    "groupe": "",
+    "sort": 486
+  },
+  {
+    "classe": "Sciences Economiques (HEC)",
+    "name": "économie de l'assurance",
+    "groupe": "",
+    "sort": 491
+  },
+  {
+    "classe": "Sciences Economiques (HEC)",
+    "name": "économie de la santé",
+    "groupe": "",
+    "sort": 496
+  },
+  {
+    "classe": "Sciences Economiques (HEC)",
+    "name": "économie des contrats",
+    "groupe": "",
+    "sort": 501
+  },
+  {
+    "classe": "Sciences Economiques (HEC)",
+    "name": "économie du travail",
+    "groupe": "",
+    "sort": 506
+  },
+  {
+    "classe": "Sciences Economiques (HEC)",
+    "name": "économie financière",
+    "groupe": "",
+    "sort": 511
+  },
+  {
+    "classe": "Sciences Economiques (HEC)",
+    "name": "économie internationale",
+    "groupe": "",
+    "sort": 516
+  },
+  {
+    "classe": "Sciences Economiques (HEC)",
+    "name": "économie publique",
+    "groupe": "",
+    "sort": 521
+  },
+  {
+    "classe": "Sciences Economiques (HEC)",
+    "name": "économie spatiale",
+    "groupe": "",
+    "sort": 526
+  },
+  {
+    "classe": "Sciences Economiques (HEC)",
+    "name": "finance",
+    "groupe": "",
+    "sort": 531
+  },
+  {
+    "classe": "Sciences Economiques (HEC)",
+    "name": "finances publiques (HEC)",
+    "groupe": "",
+    "sort": 536
+  },
+  {
+    "classe": "Sciences Economiques (HEC)",
+    "name": "gestion de projet",
+    "groupe": "",
+    "sort": 541
+  },
+  {
+    "classe": "Sciences Economiques (HEC)",
+    "name": "gouvernance d'entreprise",
+    "groupe": "",
+    "sort": 546
+  },
+  {
+    "classe": "Sciences Economiques (HEC)",
+    "name": "leadership",
+    "groupe": "",
+    "sort": 551
+  },
+  {
+    "classe": "Sciences Economiques (HEC)",
+    "name": "management",
+    "groupe": "",
+    "sort": 556
+  },
+  {
+    "classe": "Sciences Economiques (HEC)",
+    "name": "marchés",
+    "groupe": "",
+    "sort": 561
+  },
+  {
+    "classe": "Sciences Economiques (HEC)",
+    "name": "marketing",
+    "groupe": "",
+    "sort": 566
+  },
+  {
+    "classe": "Sciences Economiques (HEC)",
+    "name": "risque et sécurité",
+    "groupe": "",
+    "sort": 571
+  },
+  {
+    "classe": "Sciences Economiques (HEC)",
+    "name": "systèmes d'information",
+    "groupe": "",
+    "sort": 576
+  },
+  {
+    "classe": "Sciences Economiques (HEC)",
+    "name": "théorie de la décision",
+    "groupe": "",
+    "sort": 581
+  },
+  {
+    "classe": "Sciences Economiques (HEC)",
+    "name": "théorie des jeux",
+    "groupe": "",
+    "sort": 586
+  },
+  {
+    "classe": "Sciences Humaines",
+    "name": "Sciences Humaines",
+    "groupe": "",
+    "sort": 591
+  },
+  {
+    "classe": "Sciences Humaines",
+    "name": "arts du spectacle",
+    "groupe": "",
+    "sort": 596
+  },
+  {
+    "classe": "Sciences Humaines",
+    "name": "danse",
+    "groupe": "arts du spectacle",
+    "sort": 601
+  },
+  {
+    "classe": "Sciences Humaines",
+    "name": "théâtre",
+    "groupe": "arts du spectacle",
+    "sort": 606
+  },
+  {
+    "classe": "Sciences Humaines",
+    "name": "arts visuels",
+    "groupe": "",
+    "sort": 611
+  },
+  {
+    "classe": "Sciences Humaines",
+    "name": "architecture",
+    "groupe": "arts visuels",
+    "sort": 616
+  },
+  {
+    "classe": "Sciences Humaines",
+    "name": "arts vidéo",
+    "groupe": "arts visuels",
+    "sort": 621
+  },
+  {
+    "classe": "Sciences Humaines",
+    "name": "bande dessinée",
+    "groupe": "arts visuels",
+    "sort": 626
+  },
+  {
+    "classe": "Sciences Humaines",
+    "name": "cinéma",
+    "groupe": "arts visuels",
+    "sort": 631
+  },
+  {
+    "classe": "Sciences Humaines",
+    "name": "dessin",
+    "groupe": "arts visuels",
+    "sort": 636
+  },
+  {
+    "classe": "Sciences Humaines",
+    "name": "gravure, dessin",
+    "groupe": "arts visuels",
+    "sort": 641
+  },
+  {
+    "classe": "Sciences Humaines",
+    "name": "histoire de l'art",
+    "groupe": "arts visuels",
+    "sort": 646
+  },
+  {
+    "classe": "Sciences Humaines",
+    "name": "jeu vidéo",
+    "groupe": "arts visuels",
+    "sort": 651
+  },
+  {
+    "classe": "Sciences Humaines",
+    "name": "peinture",
+    "groupe": "arts visuels",
+    "sort": 656
+  },
+  {
+    "classe": "Sciences Humaines",
+    "name": "photographie",
+    "groupe": "arts visuels",
+    "sort": 661
+  },
+  {
+    "classe": "Sciences Humaines",
+    "name": "sculpture",
+    "groupe": "arts visuels",
+    "sort": 666
+  },
+  {
+    "classe": "Sciences Humaines",
+    "name": "civilisations",
+    "groupe": "",
+    "sort": 671
+  },
+  {
+    "classe": "Sciences Humaines",
+    "name": "archéologie",
+    "groupe": "civilisations",
+    "sort": 676
+  },
+  {
+    "classe": "Sciences Humaines",
+    "name": "autres traditions religieuses dominantes",
+    "groupe": "civilisations",
+    "sort": 681
+  },
+  {
+    "classe": "Sciences Humaines",
+    "name": "civilisations antiques",
+    "groupe": "civilisations",
+    "sort": 686
+  },
+  {
+    "classe": "Sciences Humaines",
+    "name": "civilisations de l'asie du sud",
+    "groupe": "civilisations",
+    "sort": 691
+  },
+  {
+    "classe": "Sciences Humaines",
+    "name": "civilisations slaves",
+    "groupe": "civilisations",
+    "sort": 696
+  },
+  {
+    "classe": "Sciences Humaines",
+    "name": "etudes américaines",
+    "groupe": "civilisations",
+    "sort": 701
+  },
+  {
+    "classe": "Sciences Humaines",
+    "name": "etudes germaniques",
+    "groupe": "civilisations",
+    "sort": 706
+  },
+  {
+    "classe": "Sciences Humaines",
+    "name": "etudes hispaniques",
+    "groupe": "civilisations",
+    "sort": 711
+  },
+  {
+    "classe": "Sciences Humaines",
+    "name": "traditions religieuses monothéistes (judaïsme, christianisme, islam)",
+    "groupe": "civilisations",
+    "sort": 716
+  },
+  {
+    "classe": "Sciences Humaines",
+    "name": "traditions religieuses transversales et marginalisées",
+    "groupe": "civilisations",
+    "sort": 721
+  },
+  {
+    "classe": "Sciences Humaines",
+    "name": "histoire",
+    "groupe": "",
+    "sort": 726
+  },
+  {
+    "classe": "Sciences Humaines",
+    "name": "histoire ancienne",
+    "groupe": "histoire",
+    "sort": 731
+  },
+  {
+    "classe": "Sciences Humaines",
+    "name": "histoire contemporaine",
+    "groupe": "histoire",
+    "sort": 736
+  },
+  {
+    "classe": "Sciences Humaines",
+    "name": "histoire de l'islam",
+    "groupe": "histoire",
+    "sort": 741
+  },
+  {
+    "classe": "Sciences Humaines",
+    "name": "histoire de la pensée politique et économique",
+    "groupe": "histoire",
+    "sort": 746
+  },
+  {
+    "classe": "Sciences Humaines",
+    "name": "histoire du christianisme",
+    "groupe": "histoire",
+    "sort": 751
+  },
+  {
+    "classe": "Sciences Humaines",
+    "name": "histoire du judaïsme",
+    "groupe": "histoire",
+    "sort": 756
+  },
+  {
+    "classe": "Sciences Humaines",
+    "name": "histoire et sciences des religions",
+    "groupe": "histoire",
+    "sort": 761
+  },
+  {
+    "classe": "Sciences Humaines",
+    "name": "histoire moderne",
+    "groupe": "histoire",
+    "sort": 766
+  },
+  {
+    "classe": "Sciences Humaines",
+    "name": "moyen âge",
+    "groupe": "histoire",
+    "sort": 771
+  },
+  {
+    "classe": "Sciences Humaines",
+    "name": "langues, littérature et linguistique",
+    "groupe": "",
+    "sort": 776
+  },
+  {
+    "classe": "Sciences Humaines",
+    "name": "allemand",
+    "groupe": "langues, littérature et linguistique",
+    "sort": 781
+  },
+  {
+    "classe": "Sciences Humaines",
+    "name": "anglais",
+    "groupe": "langues, littérature et linguistique",
+    "sort": 786
+  },
+  {
+    "classe": "Sciences Humaines",
+    "name": "arabe",
+    "groupe": "langues, littérature et linguistique",
+    "sort": 791
+  },
+  {
+    "classe": "Sciences Humaines",
+    "name": "chinois",
+    "groupe": "langues, littérature et linguistique",
+    "sort": 796
+  },
+  {
+    "classe": "Sciences Humaines",
+    "name": "édition critique",
+    "groupe": "langues, littérature et linguistique",
+    "sort": 801
+  },
+  {
+    "classe": "Sciences Humaines",
+    "name": "espagnol",
+    "groupe": "langues, littérature et linguistique",
+    "sort": 806
+  },
+  {
+    "classe": "Sciences Humaines",
+    "name": "français langue étrangère",
+    "groupe": "langues, littérature et linguistique",
+    "sort": 811
+  },
+  {
+    "classe": "Sciences Humaines",
+    "name": "français médiéval",
+    "groupe": "langues, littérature et linguistique",
+    "sort": 816
+  },
+  {
+    "classe": "Sciences Humaines",
+    "name": "français moderne",
+    "groupe": "langues, littérature et linguistique",
+    "sort": 821
+  },
+  {
+    "classe": "Sciences Humaines",
+    "name": "génétique textuelle",
+    "groupe": "langues, littérature et linguistique",
+    "sort": 826
+  },
+  {
+    "classe": "Sciences Humaines",
+    "name": "grec ancien",
+    "groupe": "langues, littérature et linguistique",
+    "sort": 831
+  },
+  {
+    "classe": "Sciences Humaines",
+    "name": "hébreu",
+    "groupe": "langues, littérature et linguistique",
+    "sort": 836
+  },
+  {
+    "classe": "Sciences Humaines",
+    "name": "hindi",
+    "groupe": "langues, littérature et linguistique",
+    "sort": 841
+  },
+  {
+    "classe": "Sciences Humaines",
+    "name": "italien",
+    "groupe": "langues, littérature et linguistique",
+    "sort": 846
+  },
+  {
+    "classe": "Sciences Humaines",
+    "name": "japonais",
+    "groupe": "langues, littérature et linguistique",
+    "sort": 851
+  },
+  {
+    "classe": "Sciences Humaines",
+    "name": "latin",
+    "groupe": "langues, littérature et linguistique",
+    "sort": 856
+  },
+  {
+    "classe": "Sciences Humaines",
+    "name": "linguistique générale",
+    "groupe": "langues, littérature et linguistique",
+    "sort": 861
+  },
+  {
+    "classe": "Sciences Humaines",
+    "name": "littérature comparée",
+    "groupe": "langues, littérature et linguistique",
+    "sort": 866
+  },
+  {
+    "classe": "Sciences Humaines",
+    "name": "ourdou",
+    "groupe": "langues, littérature et linguistique",
+    "sort": 871
+  },
+  {
+    "classe": "Sciences Humaines",
+    "name": "russe",
+    "groupe": "langues, littérature et linguistique",
+    "sort": 876
+  },
+  {
+    "classe": "Sciences Humaines",
+    "name": "sanskrit",
+    "groupe": "langues, littérature et linguistique",
+    "sort": 881
+  },
+  {
+    "classe": "Sciences Humaines",
+    "name": "traduction littéraire",
+    "groupe": "langues, littérature et linguistique",
+    "sort": 886
+  },
+  {
+    "classe": "Sciences Humaines",
+    "name": "musicologie",
+    "groupe": "musicologie",
+    "sort": 891
+  },
+  {
+    "classe": "Sciences Humaines",
+    "name": "philosophie",
+    "groupe": "",
+    "sort": 896
+  },
+  {
+    "classe": "Sciences Humaines",
+    "name": "esthétique",
+    "groupe": "philosophie",
+    "sort": 901
+  },
+  {
+    "classe": "Sciences Humaines",
+    "name": "ethique et morale",
+    "groupe": "philosophie",
+    "sort": 906
+  },
+  {
+    "classe": "Sciences Humaines",
+    "name": "logique et philosophie des sciences",
+    "groupe": "philosophie",
+    "sort": 911
+  },
+  {
+    "classe": "Sciences Humaines",
+    "name": "métaphysique",
+    "groupe": "philosophie",
+    "sort": 916
+  },
+  {
+    "classe": "Sciences Humaines",
+    "name": "philosophe analytique",
+    "groupe": "philosophie",
+    "sort": 921
+  },
+  {
+    "classe": "Sciences Humaines",
+    "name": "philosophie antique",
+    "groupe": "philosophie",
+    "sort": 926
+  },
+  {
+    "classe": "Sciences Humaines",
+    "name": "philosophie contemporaine",
+    "groupe": "philosophie",
+    "sort": 931
+  },
+  {
+    "classe": "Sciences Humaines",
+    "name": "philosophie du moyen âge",
+    "groupe": "philosophie",
+    "sort": 936
+  },
+  {
+    "classe": "Sciences Humaines",
+    "name": "philosophie moderne",
+    "groupe": "philosophie",
+    "sort": 941
+  },
+  {
+    "classe": "Sciences Humaines",
+    "name": "philosophie politique, philosophie du Droit",
+    "groupe": "philosophie",
+    "sort": 946
+  },
+  {
+    "classe": "Sciences Politiques",
+    "name": "Sciences Politiques",
+    "groupe": "",
+    "sort": 951
+  },
+  {
+    "classe": "Sciences Politiques",
+    "name": "action collective",
+    "groupe": "",
+    "sort": 956
+  },
+  {
+    "classe": "Sciences Politiques",
+    "name": "analyse de la gouvernance et de l'action publique",
+    "groupe": "",
+    "sort": 961
+  },
+  {
+    "classe": "Sciences Politiques",
+    "name": "histoire de la pensée politique et économique",
+    "groupe": "",
+    "sort": 966
+  },
+  {
+    "classe": "Sciences Politiques",
+    "name": "management et gouvernance des organisations sportives",
+    "groupe": "",
+    "sort": 971
+  },
+  {
+    "classe": "Sciences Politiques",
+    "name": "mondialisation",
+    "groupe": "",
+    "sort": 976
+  },
+  {
+    "classe": "Sciences Politiques",
+    "name": "vie politique locale",
+    "groupe": "",
+    "sort": 981
+  },
+  {
+    "classe": "Sciences Sociales",
+    "name": "Sciences Sociales",
+    "groupe": "",
+    "sort": 986
+  },
+  {
+    "classe": "Sciences Sociales",
+    "name": "anthropologie",
+    "groupe": "",
+    "sort": 991
+  },
+  {
+    "classe": "Sciences Sociales",
+    "name": "anthropologie de la santé",
+    "groupe": "",
+    "sort": 996
+  },
+  {
+    "classe": "Sciences Sociales",
+    "name": "anthropologie des religions",
+    "groupe": "",
+    "sort": 1001
+  },
+  {
+    "classe": "Sciences Sociales",
+    "name": "culture et communication",
+    "groupe": "",
+    "sort": 1006
+  },
+  {
+    "classe": "Sciences Sociales",
+    "name": "développement économique",
+    "groupe": "",
+    "sort": 1011
+  },
+  {
+    "classe": "Sciences Sociales",
+    "name": "éducation et apprentissage",
+    "groupe": "",
+    "sort": 1016
+  },
+  {
+    "classe": "Sciences Sociales",
+    "name": "études genre",
+    "groupe": "",
+    "sort": 1021
+  },
+  {
+    "classe": "Sciences Sociales",
+    "name": "identité et relations sociales",
+    "groupe": "",
+    "sort": 1026
+  },
+  {
+    "classe": "Sciences Sociales",
+    "name": "parcours de vie",
+    "groupe": "",
+    "sort": 1031
+  },
+  {
+    "classe": "Sciences Sociales",
+    "name": "politique sociale",
+    "groupe": "",
+    "sort": 1036
+  },
+  {
+    "classe": "Sciences Sociales",
+    "name": "protection inégalités sociales",
+    "groupe": "",
+    "sort": 1041
+  },
+  {
+    "classe": "Sciences Sociales",
+    "name": "religions et migrations",
+    "groupe": "",
+    "sort": 1046
+  },
+  {
+    "classe": "Sciences Sociales",
+    "name": "sociologie",
+    "groupe": "",
+    "sort": 1051
+  },
+  {
+    "classe": "Sciences Sociales",
+    "name": "sociologie des religions",
+    "groupe": "",
+    "sort": 1056
+  },
+  {
+    "classe": "Sciences Sociales",
+    "name": "sociologie du sport",
+    "groupe": "",
+    "sort": 1061
+  },
+  {
+    "classe": "spécifiez avec les mots clés",
+    "name": "autre",
+    "groupe": "",
+    "sort": 3000
+  }
+]

@@ -1,0 +1,134 @@
+@import 'variables.less';
+@import 'helpers.less';
+@import 'lib/elements.less';
+
+#fill {
+display: flex;
+ flex-direction: col;
+}
+
+.selectize-input > * {
+    padding-right: 12px;
+}
+
+span.help-block {
+    display: none;
+}
+
+.select2-drop-active {
+    width: auto !important;
+}
+
+.panel-body .at-nouislider {
+    height: 90px !important;
+}
+
+.form-group {
+    display: block !important;
+};
+
+.row.extra-padding {
+    margin-bottom: 0.5em;
+    margin-left: 0;
+    margin-right: 0;
+}
+
+.float-left {
+    float: left;
+    margin-right: 6px;
+    margin-bottom: 6px;
+    min-width: auto;
+
+    .selectize-control {
+        min-width: 300px;
+        width: -moz-fit-content;
+        width: -webkit-fit-content;
+        width: fit-content;
+    }
+}
+
+.panel-body .at-nouislider {
+    height: 40px !important;
+}
+
+.fix-margin {
+    margin-top: 15px;
+}
+
+.fix-margin-top {
+    margin-top: 30px;
+}
+
+.universe-selectize.selectize-control.multi .selectize-input {
+    height: auto !important;
+    line-height: 30px;
+}
+
+.universe-selectize.selectize-control.multi .selectize-input .item {
+    line-height: 30px;
+}
+
+.universe-selectize.selectize-control.multi .selectize-input .item .remove {
+    width: 32px;
+}
+
+.selectize-control.plugin-remove_button [data-value] {
+    position: relative;
+    padding-right: 36px !important;
+    text-shadow: none !important;
+
+    .remove {
+        border-left-color: #d0d0d0;
+        text-shadow: none !important;
+        background-color: #f0ad4e;
+        color: white;
+    }
+}
+
+.selectize-control.multi .selectize-input .js-universeSelectizeInput {
+    line-height: 32px;
+}
+
+.selectize-control.multi .selectize-input > div {
+    cursor: pointer;
+    margin: 0 3px 3px 0;
+    padding: 2px 6px;
+    background: none !important;
+    color: #342d42;
+    border: 1px solid #d0d0d0;
+}
+
+.universe-selectize.selectize-control .selectize-dropdown {
+    width: 100% !important;
+    top: auto !important;
+    margin-top: -2px;
+}
+
+
+.tree.parents {
+    float: left;
+    color: #342d42;
+    line-height: 32px;
+    padding-left: 6px;
+    padding-right: 6px;
+    margin-right: 6px;
+    border: solid 1px #d0d0d0;
+    margin-bottom: 0 !important;
+}
+
+.selectize-input div.universe-selectize-placeholder {
+    width: -moz-fit-content;
+    width: -webkit-fit-content;
+    width: fit-content;
+}
+
+.selectize-input .js-universeSelectizeInput{
+    width: -moz-fit-content;
+    width: -webkit-fit-content;
+    width: fit-content;
+}
+
+[data-required] > label:after {
+    content: ' *';
+    color: red
+}

@@ -1,0 +1,519 @@
+[
+{ "status": "Secrétariat, Etudes de lettres" }
+{ "status": "Secrétariat, Bibliothécaire-Documentaliste" }
+{ "status": "Assistante diplômée" }
+{ "status": "Chargée de cours" }
+{ "status": "Maître d'enseignement et de recherche" }
+{ "status": "Professeur ordinaire" }
+{ "status": "Professeur honoraire" }
+{ "status": "Président, Professeur ordinaire" }
+{ "status": "Chercheur FNS Junior" }
+{ "status": "Archiviste" }
+{ "status": "Direction, Professeur ordinaire" }
+{ "status": "Responsable de recherche" }
+{ "status": "Responsable de projet" }
+{ "status": "Assistant diplômé" }
+{ "status": "Professeur invité" }
+{ "status": "Professeur assistant" }
+{ "status": "Professeure ordinaire" }
+{ "status": "Doctorant FNS" }
+{ "status": "Doctorante  FNS" }
+{ "status": "Premier assistant" }
+{ "status": "Présidente, Professeure ordinaire" }
+{ "status": "Chercheuse FNS" }
+{ "status": "Maître assistante" }
+{ "status": "Première assistante" }
+{ "status": "Chercheur FNS" }
+{ "status": "Chargé de recherche" }
+{ "status": "Archéologie, Privat-docent" }
+{ "status": "Grec, Assistante diplômée" }
+{ "status": "Archéologie, chargée de cours" }
+{ "status": "Grec, Chargé de cours" }
+{ "status": "Archéologie, Assistante diplômée" }
+{ "status": "Archéologie, Assistant diplômé" }
+{ "status": "Bibliothécaire-documentalise, webmaster ASA" }
+{ "status": "Histoire ancienne, Professeure honoraire" }
+{ "status": "Histoire ancienne, Maître assistante" }
+{ "status": "Latin, Maître assistant" }
+{ "status": "Grec, Chargée de cours" }
+{ "status": "Archéologie, Professeur associé" }
+{ "status": "Présidente, Histoire ancienne, professeure ordinaire" }
+{ "status": "Latin, Chargé de cours" }
+{ "status": "Latin, Maître d'enseignement et de recherche" }
+{ "status": "Archéologie, Professeur ordinaire" }
+{ "status": "Grec, Professeur ordinaire" }
+{ "status": "Archéologue" }
+{ "status": "Archéologie, Maître d'enseignement et de recherche" }
+{ "status": "Histoire ancienne, Première assistante" }
+{ "status": "Latin, assistant diplômé" }
+{ "status": "Histoire ancienne, Privat-docente" }
+{ "status": "Archéologie, assistant diplômé" }
+{ "status": "Latin, Professeure ordinaire" }
+{ "status": "Archéologie, Responsable de chantier" }
+{ "status": "Bibliothécaire-Documentaliste" }
+{ "status": "Histoire ancienne, Maître d'enseignement et de recherche" }
+{ "status": "Latin, Chercheuse FNS senior" }
+{ "status": "Archéologie, premier assistant" }
+{ "status": "Secrétariat, Doctorante  FNS" }
+{ "status": "Chargé de cours" }
+{ "status": "Maître d'enseignement et de recherche suppléant" }
+{ "status": "Chargé de missions administratives et stratégiques" }
+{ "status": "Documentaliste" }
+{ "status": "Collaborateur de recherche" }
+{ "status": "Professeure associée" }
+{ "status": "Chercheuse FNS senior" }
+{ "status": "Président, Maître d'enseignement et de recherche" }
+{ "status": "Professeur associé" }
+{ "status": "Maître assistant Ambizione" }
+{ "status": "Professeur titulaire" }
+{ "status": "Maître assistant" }
+{ "status": "Privat-docent" }
+{ "status": "Chargée de mission stratégique et chargée de cours" }
+{ "status": "Président, Professeur associé" }
+{ "status": "Première assitante et chercheuse FNS" }
+{ "status": "Directeur, Maître d'enseignement et de recherche" }
+{ "status": "Conseillère pédagogique" }
+{ "status": "Assistante contrats académiques" }
+{ "status": "Collège des Sciences, Assistante diplômée" }
+{ "status": "Informatique administrative et contrats académiques" }
+{ "status": "Consultante recherche" }
+{ "status": "Chargée de mission administrative ou stratégique" }
+{ "status": "Ingénieure pédagogique" }
+{ "status": "Webmaster Faculté des Lettres" }
+{ "status": "Administrateur de la faculté" }
+{ "status": "Vice-doyenne" }
+{ "status": "Conseiller aux études et mobilité" }
+{ "status": "Secrétariat" }
+{ "status": "Secrétariat, Sections de philosophie, histoire, histoire de l'art, DIHSR et CEMEP" }
+{ "status": "Adjointe de l'administrateur" }
+{ "status": "Responsable  mobilité" }
+{ "status": "Secrétariat, Sections d'anglais et d'italien" }
+{ "status": "Secrétariat, Secrétariat des étudiants" }
+{ "status": "Chargé de communication" }
+{ "status": "Doyen" }
+{ "status": "Secrétariat, Sections d'espagnol, langues slaves, Asie du Sud et sciences antiquité" }
+{ "status": "Secrétariat, Responsable secrétariat des étudiants" }
+{ "status": "Consultant recherche" }
+{ "status": "Conseiller aux études" }
+{ "status": "Responsable qualité et valorisation" }
+{ "status": "Secrétariat, Section d'allemand, de français, des sciences du langage et de l'information et du Centre de traduction littéraire" }
+{ "status": "Vice-doyen" }
+{ "status": "Secrétariat, Sections de cinéma, et des Centres CEC et CLE" }
+{ "status": "Secrétariat, Etudes de lettres" }
+{ "status": "Comptabilité" }
+{ "status": "Privat-docente et chargée de cours" }
+{ "status": "Présidente, Maître d'enseignement et de recherche" }
+{ "status": "Maître assistante suppléante" }
+{ "status": "Privat-docente" }
+{ "status": "Présidente, Professeure associée" }
+{ "status": "Professeure invitée" }
+{ "status": "Direction du CLE, Professeur associé en littérature comparée" }
+{ "status": "Direction" }
+{ "status": "Secrétariat, Assistante de direction" }
+{ "status": "Professeure honoraire" }
+{ "status": "Professeure assistante" }
+{ "status": "Professeure boursière FNRS" }
+{ "status": "Chargée de missions administratives" }
+{ "status": "Directrice, Professeure associée" }
+{ "status": "Professeur honoraire et professeur invité" }
+{ "status": "Directeur, Professeur ordinaire" }
+{ "status": "Directeur adjoint FDI, Maître d'enseignement et de recherche" }
+{ "status": "Directrice FDI, Maître d'enseignement et de recherche" }
+{ "status": "Directeur adjoint FDI, Professeur associé" }
+{ "status": "Secrétariat FDI, SHC et CLSL" }
+{ "status": "Responsable informatique du centre multimedia" }
+{ "status": "Stagiaire" }
+{ "status": "Collaboratrice scientifique" }
+{ "status": "Responsable de l'Antenne romande" }
+{ "status": "Chargée de projets" }
+{ "status": "Maître d'enseignement et de recherche suppléante" }
+{ "status": "Adjointe de direction, Conseillère aux études" }
+{ "status": "Assistant-étudiant" }
+{ "status": "Responsable des Affaires étudiantes" }
+{ "status": "Directeur" }
+{ "status": "Adjointe responsable" }
+{ "status": "Adjointe" }
+{ "status": "Analyste en informatique" }
+{ "status": "Responsable" }
+{ "status": "Assistante" }
+{ "status": "Administratrice de faculté" }
+{ "status": "Doyen, Professeur ordinaire" }
+{ "status": "Secrétariat, Secrétaire" }
+{ "status": "Conseillère aux études" }
+{ "status": "Assistante-étudiante" }
+{ "status": "Chercheuse affiliée" }
+{ "status": "Secrétaire" }
+{ "status": "Secrétaire de direction" }
+{ "status": "Chercheur FNS Senior" }
+{ "status": "Chercheur FNS Senior et chargé de cours" }
+{ "status": "Cheffe de projet" }
+{ "status": "Coordinateur" }
+{ "status": "Assistante suppléante" }
+{ "status": "Conception et développement" }
+{ "status": "Professeur remplaçant" }
+{ "status": "Doctorant" }
+{ "status": "Laborantine" }
+{ "status": "Chargé de recherches" }
+{ "status": "Aide médico-technique" }
+{ "status": "Apprentie laborantine" }
+{ "status": "Collaborateur scientifique" }
+{ "status": "Technicienne de laboratoire" }
+{ "status": "Expert scientifique de laboratoire" }
+{ "status": "Auxiliaire" }
+{ "status": "Aide laborantine" }
+{ "status": "Post-doctorante" }
+{ "status": "Technicien de laboratoire" }
+{ "status": "Premier laborantin médical" }
+{ "status": "Post-doctorant" }
+{ "status": "Directrice" }
+{ "status": "Professeure assistante BFN" }
+{ "status": "Collaborateur technique" }
+{ "status": "Doctorante" }
+{ "status": "Collaboratrice scientifique externe" }
+{ "status": "Bibliothécaire" }
+{ "status": "Chercheur" }
+{ "status": "Chef de laboratoire" }
+{ "status": "Informaticien" }
+{ "status": "Hôte académique" }
+{ "status": "Chercheuse FNRS" }
+{ "status": "Gardienne d'animaux" }
+{ "status": "Assistante-doctorante" }
+{ "status": "Laborantine médicale" }
+{ "status": "Apprenti gardien d'animaux" }
+{ "status": "Laborantin FN" }
+{ "status": "Chercheur docteur" }
+{ "status": "Apprenti laborantin" }
+{ "status": "Laborantin médical" }
+{ "status": "Chef animalier" }
+{ "status": "Aide de laboratoire" }
+{ "status": "Chercheur FNRS" }
+{ "status": "Professeur assistant boursier FNS" }
+{ "status": "Directeur de l'Ecole Doctorale" }
+{ "status": "Coordinatrice" }
+{ "status": "Boursier" }
+{ "status": "Préparatrice" }
+{ "status": "Collaborateur externe" }
+{ "status": "Maître assistante Ambizione" }
+{ "status": "Laborantin" }
+{ "status": "Préparateur" }
+{ "status": "Laborantine principale" }
+{ "status": "Bioinformaticien" }
+{ "status": "Jardinier-horticulteur" }
+{ "status": "Intendant" }
+{ "status": "Doctorant FE" }
+{ "status": "Professeur assistante" }
+{ "status": "Doctorante FE" }
+{ "status": "Première laborantine" }
+{ "status": "Doctorante FN" }
+{ "status": "Correspondant informatique" }
+{ "status": "Responsable laboratoire" }
+{ "status": "Assistante de recherche" }
+{ "status": "Concierge" }
+{ "status": "Chercheuse" }
+{ "status": "Animalier" }
+{ "status": "Apprentie gardienne d'animaux" }
+{ "status": "Animalière" }
+{ "status": "Première laborantine médicale" }
+{ "status": "Technicien" }
+{ "status": "Laborantin médical FN" }
+{ "status": "Ingénieur C" }
+{ "status": "Bioinformaticienne" }
+{ "status": "Employée principale d'administration" }
+{ "status": "Coordinateur plateforme 'Glass Microarray'" }
+{ "status": "Spécialiste des données A" }
+{ "status": "Coordinateur plateforme GTF" }
+{ "status": "Spécialiste des données B" }
+{ "status": "Spécialiste IT" }
+{ "status": "Secrétariat, Secrétariat" }
+{ "status": "Adjointe, Adjointe" }
+{ "status": "Laborantine médicale principale" }
+{ "status": "Apprentie" }
+{ "status": "Professeur boursier" }
+{ "status": "SNSF Professor - Prof. Boursier" }
+{ "status": "Laborantine spécialisée" }
+{ "status": "Chercheur invité" }
+{ "status": "Collaboratrice technique" }
+{ "status": "Spécialiste en informatique et méthode statistiques" }
+{ "status": "Coordinateur plateforme PAF" }
+{ "status": "Spécialiste en informatique" }
+{ "status": "Laborantin spécialisé" }
+{ "status": "Boursière" }
+{ "status": "Maître assistante remplaçante" }
+{ "status": "Professeur extraordinaire" }
+{ "status": "Chargée de missions" }
+{ "status": "Directeur, Professeur associé" }
+{ "status": "Chargée de recherche" }
+{ "status": "Assistante préparatrice" }
+{ "status": "Gardien d'animaux" }
+{ "status": "Secrétariat des groupes Arrigo, Dubey, Lehmann, Fitze, Kawecki, Roulin" }
+{ "status": "Professeur boursier FNS" }
+{ "status": "Scientifique de laboratoire" }
+{ "status": "Professeur associé et Président de la Section des sciences fondamentales" }
+{ "status": "Adjointe administrative" }
+{ "status": "Doctorante invitée" }
+{ "status": "Chercheuse invitée" }
+{ "status": "Collaborateur scientifique externe" }
+{ "status": "Secrétariat, Secrétariat des groupes Chapuisat, Christe, Fumagalli, Guisan, Keller, Perrin, Schwander" }
+{ "status": "Secrétariat des groupes Alvarez, Dessimoz, Flatt, Goudet, Grüter, Pannell, Robinson-Rechavi, Salamin, Sanders, Wedekind" }
+{ "status": "Assistant doctorant" }
+{ "status": "Responsable de laboratoire" }
+{ "status": "Secrétaire assistante" }
+{ "status": "Chercheuse FNS junior" }
+{ "status": "Professeure assistante  PTC" }
+{ "status": "Maître assistant suppléant" }
+{ "status": "Apprenti informaticien" }
+{ "status": "Photographe" }
+{ "status": "Assistant" }
+{ "status": "Ingénieur" }
+{ "status": "Plateforme de morphologie" }
+{ "status": "Micro-informaticien" }
+{ "status": "Maître d'enseignement" }
+{ "status": "Directeur, Professeure ordinaire" }
+{ "status": "Chef de service" }
+{ "status": "Privat-docent et maître d'enseignement et de recherche" }
+{ "status": "Médecin" }
+{ "status": "Chef de Service, Professeur ordinaire" }
+{ "status": "Médecin associé" }
+{ "status": "Chef du département, Professeur ordinaire" }
+{ "status": "Médecin chef" }
+{ "status": "Chef de département" }
+{ "status": "Chef de clinique" }
+{ "status": "Médecin chef, Professeur ordinaire" }
+{ "status": "Médecin adjoint" }
+{ "status": "Chef de service, Professeur ordinaire" }
+{ "status": "Chef de clinique, privat-docent" }
+{ "status": "Professeur assistant et privat-docent" }
+{ "status": "Médecin cheffe" }
+{ "status": "Chef du département" }
+{ "status": "Chef de service, Professeur titulaire" }
+{ "status": "Cheffe de service, Professeure ordinaire" }
+{ "status": "Biologiste" }
+{ "status": "Chef de service a.i., Professeur ordinaire" }
+{ "status": "Directrice administrative" }
+{ "status": "Directeur médical, Professeur ordinaire" }
+{ "status": "Cheffe de clinique" }
+{ "status": "Chirurgie orthopédique, Médecin chef" }
+{ "status": "Directrice Unité Opérationnelle du DAL, Professeure associée" }
+{ "status": "Médecine physique et de réadaptation, Médecin associé, PD & MER" }
+{ "status": "Directeur académique, Professeur ordinaire" }
+{ "status": "Chef de projets de recherche" }
+{ "status": "Privat-Docent, Psychologue associé" }
+{ "status": "Chef de service, Professeur associé" }
+{ "status": "Chef de groupe" }
+{ "status": "Chimiste, Forensic toxicologist SGRM/GTFCh" }
+{ "status": "Médecin-chef" }
+{ "status": "Médecin assistante" }
+{ "status": "Cheffe d'unité de recherche" }
+{ "status": "Chef de Service et de Département, Professeur ordinaire" }
+{ "status": "Cheffe de service" }
+{ "status": "Directeur administratif" }
+{ "status": "Juriste senior" }
+{ "status": "Responsable Finances et Administration" }
+{ "status": "Chargée de communication" }
+{ "status": "Chargée d'Affaires" }
+{ "status": "Juriste" }
+{ "status": "Director" }
+{ "status": "Adjoint aux infrastructures" }
+{ "status": "Vice-doyenne enseignement" }
+{ "status": "Responsable comptabilité" }
+{ "status": "Datamanager ADIFAC" }
+{ "status": "Médecin chef adjoint" }
+{ "status": "Chef service, Professeur ordinaire" }
+{ "status": "Direction, Directeur" }
+{ "status": "Responsable de la technologie (CTO)" }
+{ "status": "Directrice adjointe" }
+{ "status": "Scientifique computationel" }
+{ "status": "Scientific software engineer" }
+{ "status": "Direction, Responsable RH" }
+{ "status": "Senior Scientist" }
+{ "status": "Direction, Secrétaire-administrative" }
+{ "status": "Administrateur" }
+{ "status": "PhD student" }
+{ "status": "Développeur" }
+{ "status": "Analyste-programmeur" }
+{ "status": "Direction, Responsable du projet de bioinformatique clinique" }
+{ "status": "Civiliste" }
+{ "status": "Responsable communication" }
+{ "status": "Statisticien" }
+{ "status": "Projet Manager" }
+{ "status": "Direction, Stagiaire" }
+{ "status": "Direction, Aide-comptable" }
+{ "status": "Head of Digital E-learning" }
+{ "status": "Chercheur associé" }
+{ "status": "HR Manager" }
+{ "status": "Direction, Responsable comptabilité" }
+{ "status": "Direction, Secrétaire de direction" }
+{ "status": "E-curator" }
+{ "status": "Administrateur système" }
+{ "status": "Collaborateur scientifique invité" }
+{ "status": "Vice-Doyen pour la recherche et l'innovation" }
+{ "status": "Vétérinaire" }
+{ "status": "Coordinateur aide médico-technique" }
+{ "status": "Research and Development Scientist" }
+{ "status": "Programmeur" }
+{ "status": "Secrétariat, Vital-IT" }
+{ "status": "Responsable informatique" }
+{ "status": "Services aux chercheurs" }
+{ "status": "Adjoint à la recherche USPR" }
+{ "status": "Adjointe - Coordinatrice à l'école doctorale Lemanic Neuroscience" }
+{ "status": "Adjointe, Responsable de missions administratives ou stratégiques" }
+{ "status": "Coordinatrice du programme doctoral Ecologie et Evolution" }
+{ "status": "Secrétariat, Procédures de thèse: Sciences de la vie (PhD)-Sciences infirmières-Neurosciences" }
+{ "status": "Adjointe pédagogique" }
+{ "status": "Vice-Directrice" }
+{ "status": "Coordinateur de TP" }
+{ "status": "Evaluations" }
+{ "status": "Coordinatrice Skills" }
+{ "status": "Resp. admin.  des compétences cliniques" }
+{ "status": "Entraîneur PS" }
+{ "status": "Coordinatrice pédagogique et recherche" }
+{ "status": "Adjoint pédagogique" }
+{ "status": "Responsable administrative UPM" }
+{ "status": "Docimologue" }
+{ "status": "Vice-directrice opérationnelle" }
+{ "status": "Secrétariat - Mobilité" }
+{ "status": "Responsable sercrétariat  examens" }
+{ "status": "Bureau des examens" }
+{ "status": "Coordinateur - Mobilité" }
+{ "status": "Secrétariat examens" }
+{ "status": "Informaticienne" }
+{ "status": "Vice-Doyen pour les affaires stratégiques, relations extérieures et communication," }
+{ "status": "Vice-Doyen pour la relève académique" }
+{ "status": "Stagiaire universitaire" }
+{ "status": "Président" }
+{ "status": "Chef de projets communication et plan de développement - Décanat FBM" }
+{ "status": "Coordinatrice service desk et projets" }
+{ "status": "Webmaster, Coordinatrice ALUMNIL" }
+{ "status": "Secrétariat du Doyen" }
+{ "status": "Réception Décanat/DFR" }
+{ "status": "Réception Décanat/DFR, Assistante en communication" }
+{ "status": "Réception Décanat/DFR, Administrateur" }
+{ "status": "Secrétaire de Direction DFR" }
+{ "status": "Réception Décanat/DFR, Responsable comptabilité" }
+{ "status": "Adjointe RH" }
+{ "status": "Service Informatique" }
+{ "status": "Adjointe au vice-Décanat de l'enseignement" }
+{ "status": "Vice-Doyenne pour l'enseignement et la formation" }
+{ "status": "Chancellerie" }
+{ "status": "Adjointe à la communication" }
+{ "status": "Secrétaire générale adjointe" }
+{ "status": "Bibliothèque Biologie" }
+{ "status": "Adjoint au chef de la micro-informatique" }
+{ "status": "Logistique" }
+{ "status": "Professeur ordinaire et médecin adjoint" }
+{ "status": "Directeur adjoint" }
+{ "status": "Reprographie" }
+{ "status": "Bureau des polycopiés" }
+{ "status": "Aumôniers protestants, Pasteur" }
+{ "status": "Laïque catholique" }
+{ "status": "Aumôniers catholiques, Prêtre" }
+{ "status": "Prêtre" }
+{ "status": "Pasteure" }
+{ "status": "Assistante administrative" }
+{ "status": "Collaborateur archives" }
+{ "status": "Responsable de l'administration et des événements" }
+{ "status": "Directeur de la Fondation" }
+{ "status": "Archiviste responsable" }
+{ "status": "Spécialiste technique" }
+{ "status": "Responsable de marketing et communication" }
+{ "status": "Responsable RH" }
+{ "status": "Chef de la Bibliothèque" }
+{ "status": "Apprenti" }
+{ "status": "Apprentie assistante en information documentaire" }
+{ "status": "Vice-directeur" }
+{ "status": "Chef finances" }
+{ "status": "Services techniques, Atelier de reliure" }
+{ "status": "Bibliothèque" }
+{ "status": "Social Report Editor-in-Chief" }
+{ "status": "Data Service Expert" }
+{ "status": "Researcher" }
+{ "status": "Senior Researcher" }
+{ "status": "Senior Researcher and Data Service Expert" }
+{ "status": "IT Developer" }
+{ "status": "Head of Group SELECTS" }
+{ "status": "Head of Unit Data and Research Information" }
+{ "status": "Head of Groupe IT" }
+{ "status": "Head of Unit Surveys" }
+{ "status": "Communications Officer" }
+{ "status": "Head of Groupe SHP" }
+{ "status": "Office Manager" }
+{ "status": "Head of Group Data Service" }
+{ "status": "Responsable ressources humaines et finances" }
+{ "status": "Head of Group International Surveys" }
+{ "status": "Research Inventory Administrator" }
+{ "status": "Bibliothécaire, responsable linguistique" }
+{ "status": "Prêt entre bibliothèques" }
+{ "status": "Réception expédition des marchandises" }
+{ "status": "Prêt" }
+{ "status": "Comptable" }
+{ "status": "Manuscrits" }
+{ "status": "Bibliothécaire, spécialiste géographie et sport" }
+{ "status": "Conservatrice des manuscrits" }
+{ "status": "Restauration-reliure" }
+{ "status": "Bibliothécaire-documentaliste assistante" }
+{ "status": "Etiquetage - timbrage" }
+{ "status": "Informatique" }
+{ "status": "Bibliothécaire, histoire" }
+{ "status": "Surveillante" }
+{ "status": "Responsable numérisation" }
+{ "status": "Atelier de reliure" }
+{ "status": "Assistante RH" }
+{ "status": "Gestionnaire Serval" }
+{ "status": "Bibliothécaire, responsable de la BDSE" }
+{ "status": "Conservateur de la Réserve Précieuse" }
+{ "status": "Périodiques" }
+{ "status": "Apprentie bibliothécaire" }
+{ "status": "Responsable du prêt interbibliothèques" }
+{ "status": "Responsable de Cinespace" }
+{ "status": "Assistante comptabilité" }
+{ "status": "Bibliothécaire, médiathèque" }
+{ "status": "Assistante en gestion comptable" }
+{ "status": "Bibliothécaire spécialiste en sciences sociales" }
+{ "status": "Web & Community manager BCUL" }
+{ "status": "Employée de bibliothèque" }
+{ "status": "Responsable de dépôt" }
+{ "status": "Responsable du site HEP Vaud" }
+{ "status": "Prêt BDSE" }
+{ "status": "Gestionnaire d'applications" }
+{ "status": "Formateur" }
+{ "status": "Responsable du service du prêt" }
+{ "status": "Etiquetage et manuscrits" }
+{ "status": "Responsable de la Coordination Vaudoise" }
+{ "status": "Responsable collection Antiquité & Philologie Classique" }
+{ "status": "Bibliothécaire, responsable histoire de l'art et slavistique" }
+{ "status": "Responsable du CirDoc" }
+{ "status": "Responsable financier et infrastructure" }
+{ "status": "Bibliothécaire, périodiques" }
+{ "status": "Chef de projet informatique" }
+{ "status": "Bibliothécaire, musicologie et musique imprimée" }
+{ "status": "Responsable UNIDOC" }
+{ "status": "Bibliothécaire, collections générales" }
+{ "status": "Secrétariat Coordination bibliothèques scolaires" }
+{ "status": "Responsable de l'accueil et renseignements" }
+{ "status": "Assistant bibliothèque" }
+{ "status": "Collections générales" }
+{ "status": "Responsable de la musicologie et musique imprimée" }
+{ "status": "Accueil" }
+{ "status": "Médiatrice culturelle" }
+{ "status": "Responsable de la documentation vaudoise" }
+{ "status": "Responsable des collections grand public" }
+{ "status": "Adjointe Prêt" }
+{ "status": "Agente en information documentaire" }
+{ "status": "Bibliothécaire, responsable de la phonothèque et prêt interbibliothèque" }
+{ "status": "Adjointe à la coordination des bibliothèques" }
+{ "status": "Cheffe du prêt" }
+{ "status": "Prêt interbibliothèques - réception des livres" }
+{ "status": "Direction de série" }
+{ "status": "Enseignante" }
+{ "status": "Anglais, Enseignante" }
+{ "status": "Juriste junior" }
+{ "status": "Professeure" }
+{ "status": "Coordinatrice logistique" }
+{ "status": "Chimiste" }
+{ "status": "Chargé de projet" }
+{ "status": "Enseignant" }
+{ "status": "Collaboratrice" }
+{ "status": "Sécurité" }
+{ "status": "Employée d'administration" }
+{ "status": "Bibliothécaire, histoire de l'art" }
+]

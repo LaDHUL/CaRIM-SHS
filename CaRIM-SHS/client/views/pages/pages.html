@@ -1,0 +1,84 @@
+<template name='pages'>
+  {{#if Template.subscriptionsReady}}
+    {{#with doc}}
+
+      <div class="panel panel-default">
+
+      {{#if titre}}
+        <div class="panel-heading">
+          <h3>{{ titre }}</h3>
+          {{#if entete}}    <em class="text-justify">{{ entete }}</em> {{/if}}
+        </div>
+      {{else}}
+        {{#if entete}}
+          <div class="panel-body">
+            <h5 class="text-justify"> {{{ entete }}} </h5>
+          </div>
+        {{/if}}
+      {{/if}}
+
+      {{#if contenu}}
+       <div class="panel-body">
+          {{#each contenu}}
+            {{#if titre}}
+              <h4>{{titre}}</h4>
+              {{else}}
+                {{#if liste}}
+                  {{> liste }}
+                {{else}}
+                  {{#if texte}}
+                    <p class="text-justify">{{{texte}}}</p>
+                  {{else}}
+                    {{#if parties}}
+                      {{ #each parties}}
+                        {{> Template.dynamic template='pages' data=this }}
+                      {{/each}}
+                    {{else}}
+                      {{#if this}}
+                        <p class="text-justify">{{{this}}}</p>
+                    {{/if}}
+                  {{/if}}
+                {{/if}}
+              {{/if}}
+            {{/if}}
+            {{/each}}
+            </div>
+      {{/if}}
+
+
+      {{#if parties}}
+      <p>
+      <ul class="list-group">
+        {{ #each parties}}
+        <li class="list-group-item">
+          {{> Template.dynamic template='pages' data=this }}
+        </li>
+        {{/each}}
+      </ul>
+    </p>
+      {{/if}}
+
+      {{#if pied}}
+        <div class="list-group-footer">
+          {{{ pied }}}
+        </div>
+      {{/if}}
+    </div>
+    {{/with}}
+  {{/if}}
+</template>
+
+
+<template name ="liste">
+  <ul class="list-group">
+    {{#each liste}}
+      <li class="list-group-item">
+        {{#if liste}}
+          {{> Template.dynamic template='liste' data=this }}
+        {{else}}
+        <small><i class="fa fa-circle" aria-hidden="true"></i>&nbsp;</small>&nbsp;{{{this}}}
+        {{/if}}
+      </li>
+    {{/each}}
+  </ul>
+</template>

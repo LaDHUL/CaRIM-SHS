@@ -1,0 +1,30 @@
+<template name="quickForm_carim">
+    <div class ='panel-body' role="insert-form">
+    {{#autoForm qfAutoFormContext}}
+        {{#with grouplessFields}}
+            {{> afQuickFields quickFieldsAtts }}
+        {{/with}}
+        {{#each fieldGroups}}
+            <fieldset class="af-fieldGroup">
+                {{> miniheading fieldGroupLabel}}
+                {{> afQuickFields quickFieldsAtts}}
+            </fieldset>
+        {{/each}}
+
+        {{#if renderButton}}
+            <div class="form-group">
+                <div class="{{labelClass}}"></div>
+                <div class="{{inputClass}}">
+                    <button type="submit" class="{{buttonC}}">
+                        {{#with ../atts.buttonContent}}
+                            {{this}}
+                        {{else}}
+                            {{getTxt getName 'buttonvalider'}}
+                        {{/with}}
+                    </button>
+                </div>
+            </div>
+        {{/if}}
+    {{/autoForm}}
+</div>
+</template>

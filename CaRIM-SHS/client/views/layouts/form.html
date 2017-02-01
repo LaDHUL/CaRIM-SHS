@@ -1,0 +1,28 @@
+<template name="formLayout">
+    <div class="container">
+        <div class="row">
+            <hr />
+            <div class="col-sm-12">
+                {{>Template.dynamic template=header}}
+            </div>
+        </div>
+          <div class="row">
+
+            <div class="col-sm-12">
+                {{>Template.dynamic template=menu}}
+            </div>
+        </div>
+        <div class="row">
+                        <hr />
+            <div class="col-sm-12">
+                {{>Template.dynamic template=content}}
+            </div>
+          </div>
+        {{>Template.dynamic template=form}}
+        <div id="fill">
+        </div>
+    <div class="row">
+      {{>Template.dynamic template=footer}}
+    </div>
+  </div>
+</template>

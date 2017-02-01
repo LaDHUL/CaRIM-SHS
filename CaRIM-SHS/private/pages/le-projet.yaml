@@ -1,0 +1,59 @@
+page: le-projet
+titre: "Le projet"
+contenu:
+  - |
+    L’objectif de CaRIM-SHS est de constituer un outil de valorisation et de mutualisation des ressources informatiques (savoir, savoir-faire et outils au sens large) de l'Unil à destination des sciences humaines et sociales, pour favoriser le décloisonnement des pratiques numériques dans les différents champs disciplinaires.
+  - |
+    Cette base de référence, construite notamment pour l’usage interne de la plateforme technique (<a href="https://platec.unil.ch/">PlaTec</a>) du Ladhul, sera mise à la disposition des chercheurs, enseignants et collaborateurs PAT de l’Unil pour explorer dans leur contexte institutionnel les pratiques et compétences numériques mobilisées par les individus, les facultés, les disciplines et les projets.
+parties:
+  - doc:
+      page: objectifs
+      titre: Les objectifs
+      contenu:
+          - |
+            <b>Objectif 1</b>
+          - |
+            identifier et valoriser les compétences informatiques des collaborateurs de l’Unil en SHS dans leur pratique de recherche, d’enseignement ou de support à la recherche ou à l’enseignement ;
+          - <b>Objectif 2</b>
+          - |
+            identifier les outils et les technologies les plus utilisés, les plus performants et/ou les plus adaptés pour des traitements et des objectifs donnés ;
+          - <b>Objectif 3</b>
+          - "produire un état des lieux des développements informatiques réalisés à l’Unil pour (ou potentiellement utilisable par) les sciences humaines et sociales :"
+          - liste:
+              - pour donner de la visibilité (voire une « seconde vie ») aux outils existants et identifier d’éventuels domaines d’application hors du champs disciplinaire d’origine (mutualisation) ;
+              - pour rationaliser les développements informatiques à l’interne, mieux déceler les besoins communs et disposer d’une vision d’ensemble des disciplines qui ressortissent aux SHS.
+
+  - doc:
+      page: methodo-outils
+      titre: Méthodologie & outils
+      entete:
+        - |
+          Les données nécessaires à la construction de cette base de données des outils et compétences numériques n’existent pas actuellement en l’état. Il faut donc identifier les données pertinentes, les collecter, les organiser et les mettre en forme.
+      contenu:
+        - |
+          A cette fin, l’équipe du projet CaRIM-SHS a engagé depuis avril 2016 une réflexion sur l’établissement de <b>référentiels</b> (en adaptant des ontologies et des jeux de métadonnées existants, par exemple <a href="http://tadirah.dariah.eu/vocab/index.php">TaDiRAH</a>, <a href="http://nemo.dcu.gr/index.php">NeDIMAH Methods Ontology</a>) de manière à proposer à l’ensemble de la communauté SHS de l’Unil un questionnaire d’enquête adapté et efficace pour canaliser la saisie et optimiser l’intégration des données. Le but est de faciliter la tâche et de réduire au maximum le temps de réponse tout en dressant un panorama relativement exhaustif des usages avancés du numérique dans l’institution, à travers, d’une part, les pratiques individuelles de recherche, d’enseignement et de support à la recherche et, d’autre part, les projets de recherche et d’enseignement avec une composante numérique forte.
+        - |
+          Les données issues du questionnaire d’enquête seront intégrées et mises à disposition par la <a href="https://platec.unil.ch/">plateforme technique du Ladhul</a> à travers l’environnement virtuel de recherche <a href="http://www.knora.org/">Salsah/Knora</a> (ou sur <a href="http://github.com/dhlab-basel/Knora">GitHub</a>). Déployé à l’Unil dans le prolongement d’un <a href="http://www.sagw.ch/fr/sagw/laufende-projekte/DaSCH.html">projet</a> qui visait à garantir l’accessibilité des données de la recherche en sciences humaines et sociales, Salsah/Knora présente des données structurées en RDF, conformes aux technologies du web sémantique et du web de données.
+        - |
+          L’interface de consultation web de la base de données de CaRIM-SHS visera notamment à visualiser et <b>explorer les données sous la forme de réseaux</b>. L'objectif est, par exemple, de pouvoir mieux identifier le faisceau de compétences mobilisé par les projet de recherche à forte composante numérique, évaluer la popularité d’un logiciel en embrassant les différents champs disciplinaires qui y ont recours ou encore identifier à quelle méthode ou activité de recherche un langage de programmation est le plus souvent associé (visualisations, analyses quantitatives, etc.).
+
+  - doc:
+      page: resultats
+      titre: Résultats attendus
+      contenu:
+        - |
+          A terme, l’objectif de CaRIM-SHS est de construire et de mettre à disposition une <b>cartographie globale des acteurs fortement impliqués dans le numérique et de leurs pratiques</b> dans l’institution. Il devrait, dans l'idéal, être possible de répondre aux questions suivantes :
+        - liste:
+          - Parmi les projets à composante numérique forte, quelle est la proportion de ceux qui reposent sur une base de données ?
+          - Quelle est la proportion des projets qui ont recours à des sites web pour valoriser leur recherche ?
+          - Quelles sont les unités institutionnelles ou les champs disciplinaires UNIL qui font des technologies numériques l’usage le plus diversifié ?
+          - Quel est la popularité de R et de ses « packages » dans les différentes disciplines et quels sont ses principaux domaines d’applications (analyse statistique, analyse spatiale, visualisation, etc.) ?
+        - |
+          Cet état des lieux permettra notamment de réfléchir, au Ladhul et au sein de la PlaTec, à la configuration d’une offre de service qui tienne compte des usages et des pratiques des différents acteurs des SHS.
+
+  - doc:
+      page: cadre
+      titre: Cadre du projet
+      contenu:
+        - |
+          Le projet CaRIM-SHS est porté par François Bavaud (Lettres-SLI ; Géosciences-IGD), Mattia Egloff (Lettres-SLI) et Marion Rivoal (SSP-LaDHUL). Il bénéficie d’un financement dans le cadre de l’<a href="https://www.unil.ch/ladhul/fr/home/menuinst/recherche/appel-a-projet/2016.html#contenu-standard-1">appel à projets LaDHUL 2016</a>.

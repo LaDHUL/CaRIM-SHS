@@ -1,0 +1,53 @@
+<template name="heading">
+  {{#if getTxt type 'titre' }}
+  <div class="panel-heading" id={{getId}}>
+    <div class="row">
+      <div class="col-xs-10 panel-title">
+        <h3> <b>{{ getTxt type 'titre'}}</b>
+        </h3>
+      </div>
+      <div class="col-xs-2">
+        <a role="button" class="btn btn-default pull-right" data-action="comment">
+          <span><i class="fa fa-comment-o" aria-hidden="true"> </i></span>
+        </a>
+        {{#if showdatabutton}}
+        <a role="button" class="btn btn-default pull-right" href={{datatype type}} target="_blank">
+          <span>  <i class="fa fa-database" aria-hidden="true"></i></span>
+        </a>
+        {{/if}}
+        {{#if (getTxt type 'aide')}}
+        <a role="button" class="btn btn-default  pull-right" data-action="help">
+          <span><i class="fa fa-question" aria-hidden="true"> </i></span>
+        </a>
+        {{/if}}
+
+
+      </div>
+
+    {{#if (getTxt type 'description' )}}
+    <div class="col-xs-12">
+      <span class="row"> <p>{{{getTxt type 'description'}}}</p></span>
+    </div>
+    {{/if}}
+
+  </div>
+  </div>
+
+  {{#if (getTxt type 'aide')}}
+  {{#if help}}
+  <div class="panel-body">
+  <div class="alert alert-info col-xs-12">
+    <p>{{{getTxt type 'aide' ''}}}</p>
+  </div>
+</div>
+  {{/if}}
+  {{/if}}
+  {{#if comment}}
+  {{#if Template.subscriptionsReady}}
+  <div class='panel-body' role="comment">
+    {{> remarques type}}
+  </div>
+  {{/if}}
+  {{/if}}
+  {{/if}}
+</template>

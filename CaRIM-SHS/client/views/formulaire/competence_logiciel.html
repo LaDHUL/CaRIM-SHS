@@ -1,0 +1,21 @@
+<template name="lc">
+  <div class="panel-body">
+  {{#autoForm id="competence_niveaus" schema=schema doc=doc type="normal" resetOnSuccess=true}}
+    {{>afQuickField name="value"}}
+    {{#if logicielIsSet}}
+      <div id="expslider">{{> afQuickField name="expertise"}}</div>
+        {{/if}}
+        {{#if logicielIsSet}}
+      <div id="freqslider">{{> afQuickField name="frequence"}}</div>
+  {{/if}}
+    <div class="form-group">
+        <div class="{{labelClass}}"></div>
+        <div class="{{inputClass}}">
+            <button type="submit" class={{buttonC}}>
+                    {{getTxt "competence.logiciels" 'buttonvalider'}}
+            </button>
+        </div>
+    </div>
+  {{/autoForm}}
+</div>
+</template>

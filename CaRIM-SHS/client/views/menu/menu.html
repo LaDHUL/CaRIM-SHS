@@ -1,0 +1,27 @@
+<template name="menu">
+  <div id="menu"><hr>
+  </div>
+  {{#each feature}}
+  {{#if currentUser}}
+  <div class="center aligned  col-xs-3">
+    <a href="{{path}}" class="ui unstyled no-hover-styles no-underline link icon header">
+      {{#if active}} <span class="headline">{{text}}</span><br> {{/if}}
+        <i class="{{color}} glyphicon glyphicon-{{icon}} fa-4x "></i>
+      {{#unless active}}<br><span class="footline">{{text}}</span>{{/unless}}
+
+    </a>
+  </div>
+  {{else}}
+  {{#if visible}}
+  <div class="center aligned col-xs-4" >
+    <a href="{{path}}" class="ui unstyled no-hover-styles no-underline link icon header">
+    {{#if active}}  <span class="headline">{{text}}</span><br> {{/if}}
+      <i class="{{color}} glyphicon glyphicon-{{icon}} fa-4x"></i>
+    {{#unless active}}<br><span class="footline">{{text}}</span>{{/unless}}
+    </a>
+  </div>
+  {{/if}}
+  {{/if}}
+  {{/each}}
+  <hr />
+</template>

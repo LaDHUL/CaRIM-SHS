@@ -1,0 +1,18 @@
+[
+  { "name": "image (2D)" },
+  { "name": "image matricielle (raster)" },
+  { "name": "image vectorielle" },
+  { "name": "image 3D" },
+  { "name": "video" },
+  { "name": "audio" },
+  { "name": "texte" },
+  { "name": "données qualitatives" },
+  { "name": "données quantitatives" },
+  { "name": "données du web" },
+  { "name": "données d’enquête" },
+  { "name": "géodonnées" },
+  { "name": "données de questionnaires" },
+  { "name": "données de statistiques publiques/publiées" },
+  { "name": "données médicales & physiologiques" }
+]
+

@@ -1,0 +1,50 @@
+<template name="competences_ordre_form">
+      <div class="panel-body" style="margin-bottom: 0px">
+        <div class="panel panel-default">
+          <div class="panel-body">
+            <div class='row'>
+              <div class="col-xs-12 col-sm-6" id="competencesselect1orderbuttons">
+                <div class="row">
+                  <div class="col-xs-12">
+                    <label>{{getTxt 'competences' 'niveau1'}}</label>
+                  </div>
+                  <div class="col-xs-12" >
+                    <div class="btn-group-vertical" role="group" aria-label="...">
+                      <div class="btn-group">
+                        <button name='logiciels' data-action="competences/select1" class="btn btn btn-info" type="button">{{getTxt 'competences' 'buttonlogiciels'}}</button>
+                      </div>
+                      <div class="btn-group">
+                        <button  name='finalites' data-action="competences/select1" class="btn btn-info" type="button">{{getTxt 'competences' 'buttonfinalites'}}</button>
+                      </div>
+                      <div class="btn-group">
+                        <button name='objets' data-action="competences/select1" class="btn btn-info" type="button">{{getTxt 'competences' 'buttonobjets'}}</button>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+              <div class="col-xs-12 col-sm-6" id="competencesselect2orderbuttons">
+                <div class="row">
+                  <div class="col-xs-12" >
+                    <label class="pull-right">{{getTxt 'competences' 'niveau2'}}</label>
+                  </div>
+                  <div class="col-xs-12" >
+                    <div class="btn-group btn-group-vertical pull-right" role="group" aria-label="..">
+                      <div class="btn-group">
+                        <button  name='logiciels' data-action="competences/select2" class="btn btn-info" type="button">{{getTxt 'competences' 'buttonlogiciels'}}</button>
+                      </div>
+                      <div class="btn-group">
+                        <button name='finalites' data-action="competences/select2" class="btn btn-info" type="button">{{getTxt 'competences' 'buttonfinalites'}}</button>
+                      </div>
+                      <div class="btn-group">
+                        <button name='objets' data-action="competences/select2" class="btn btn-info" type="button">{{getTxt 'competences' 'buttonobjets'}}</button>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+ </div>
+</template>

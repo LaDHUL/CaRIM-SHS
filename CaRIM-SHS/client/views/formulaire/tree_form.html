@@ -1,0 +1,39 @@
+<template name="treeForm">
+  <!--{{#if showData}}
+  <div class="col-xs-12">
+      {{> viewTree type="finalites" collection="projet_finalites" selected=selected}}
+  </div>
+  {{/if}}-->
+<div class="col-xs-12">
+  {{#if parents}}
+  <p class="tree parents">{{parents}}</p>
+  {{/if}}
+
+  {{#with doc}}
+    {{#autoForm normalForm }}
+      {{> afQuickField name="value" value=../value options=normOpts}}
+    {{/autoForm}}
+  {{else}}
+
+    {{#autoForm rootForm }}
+      {{>afQuickField name="value" options=rootOpts}}
+    {{/autoForm}}
+
+  {{/with}}
+
+
+  {{#if hasChildren}}
+  {{#autoForm childForm }}
+  {{>afQuickField name="value" options=childOpts}}
+  {{/autoForm}}
+
+  {{/if}}
+{{#if parentValue}}
+  <button type="button" class="btn btn-warning float-left" data-action="remove/last">
+  <span class='glyphicon glyphicon-remove' aria-hidden="true"></span>
+  </button>
+  {{/if}}
+</div>
+
+{{> quickForm id=id schema=schema type="normal" omitFields="value" novalidate="none" buttonContent=(getTxt getName "buttonvalider") resetOnSuccess="true"}}
+</template>

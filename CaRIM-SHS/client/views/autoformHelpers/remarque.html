@@ -1,0 +1,7 @@
+
+
+<template name="remarques">
+  {{#with doc}}
+  {{> quickForm  id=this._id collection="Inputs.remarques" schema=InputSchema.remarques type="update" doc=doc fields="remarque" buttonContent="Enregister la remarque" buttonClasses="btn btn-block btn-info"}}
+  {{/with}}
+</template>

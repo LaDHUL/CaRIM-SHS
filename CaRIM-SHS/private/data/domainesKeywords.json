@@ -1,0 +1,599 @@
+[
+  {
+    "name": "Administration publique"
+  },
+  {
+    "name": "Adolescence"
+  },
+  {
+    "name": "Alpes"
+  },
+  {
+    "name": "Aménagement du territoire"
+  },
+  {
+    "name": "Analyse du discours"
+  },
+  {
+    "name": "Anthropologie littéraire"
+  },
+  {
+    "name": "Antiquité tardive"
+  },
+  {
+    "name": "Apprentissage"
+  },
+  {
+    "name": "Approches comparées"
+  },
+  {
+    "name": "Autorité"
+  },
+  {
+    "name": "Bien-être Qualité de vie"
+  },
+  {
+    "name": "Biodiversité"
+  },
+  {
+    "name": "Capital social"
+  },
+  {
+    "name": "Carrières"
+  },
+  {
+    "name": "Changement social"
+  },
+  {
+    "name": "Chine"
+  },
+  {
+    "name": "Chômage"
+  },
+  {
+    "name": "Cinéma des premiers temps"
+  },
+  {
+    "name": "Cinéma documentaire"
+  },
+  {
+    "name": "Cognition sociale"
+  },
+  {
+    "name": "Colonisation Colonialisme Post-colonialisme"
+  },
+  {
+    "name": "Communication"
+  },
+  {
+    "name": "Comportement du consommateur"
+  },
+  {
+    "name": "Confiance et commerce"
+  },
+  {
+    "name": "Conflits intergroupes"
+  },
+  {
+    "name": "Coping"
+  },
+  {
+    "name": "Corps"
+  },
+  {
+    "name": "Criminologie"
+  },
+  {
+    "name": "Critique génétique"
+  },
+  {
+    "name": "Culture anglophone"
+  },
+  {
+    "name": "Démocratie"
+  },
+  {
+    "name": "Démographie"
+  },
+  {
+    "name": "Discours"
+  },
+  {
+    "name": "Dopage"
+  },
+  {
+    "name": "Dramaturgie"
+  },
+  {
+    "name": "Droit des affaires"
+  },
+  {
+    "name": "Droits de l'homme"
+  },
+  {
+    "name": "Durabilité"
+  },
+  {
+    "name": "Economie politique"
+  },
+  {
+    "name": "Edition de textes"
+  },
+  {
+    "name": "Education"
+  },
+  {
+    "name": "Egalité des chances"
+  },
+  {
+    "name": "Elites"
+  },
+  {
+    "name": "Elus"
+  },
+  {
+    "name": "Emotions"
+  },
+  {
+    "name": "Enfance"
+  },
+  {
+    "name": "Environnement"
+  },
+  {
+    "name": "Epidémiologie"
+  },
+  {
+    "name": "Epistémologie"
+  },
+  {
+    "name": "Espace public"
+  },
+  {
+    "name": "Esthétique"
+  },
+  {
+    "name": "Etat"
+  },
+  {
+    "name": "Ethique"
+  },
+  {
+    "name": "Ethnicité"
+  },
+  {
+    "name": "Ethnographie"
+  },
+  {
+    "name": "Evaluation Tests"
+  },
+  {
+    "name": "Exégèse"
+  },
+  {
+    "name": "Expertise judiciaire"
+  },
+  {
+    "name": "Famille"
+  },
+  {
+    "name": "Fécondité"
+  },
+  {
+    "name": "Fédéralisme"
+  },
+  {
+    "name": "Genres littéraires"
+  },
+  {
+    "name": "Gestion des ressources humaines"
+  },
+  {
+    "name": "Gestion du risque"
+  },
+  {
+    "name": "Globalisation"
+  },
+  {
+    "name": "Gouvernance"
+  },
+  {
+    "name": "Gouvernance des sciences et de la technologie"
+  },
+  {
+    "name": "Guerre froide"
+  },
+  {
+    "name": "Histoire culturelle"
+  },
+  {
+    "name": "Histoire de la pensée économique"
+  },
+  {
+    "name": "Histoire de la science politique"
+  },
+  {
+    "name": "Histoire des idées linguistiques"
+  },
+  {
+    "name": "Histoire des idées politiques"
+  },
+  {
+    "name": "Histoire économique"
+  },
+  {
+    "name": "Histoire littéraire"
+  },
+  {
+    "name": "Histoire sociale"
+  },
+  {
+    "name": "Histoire suisse"
+  },
+  {
+    "name": "Historiographie"
+  },
+  {
+    "name": "Homme animal"
+  },
+  {
+    "name": "Humanitaire"
+  },
+  {
+    "name": "Humanités digitales"
+  },
+  {
+    "name": "Identité"
+  },
+  {
+    "name": "Idéologie"
+  },
+  {
+    "name": "Images"
+  },
+  {
+    "name": "Inégalité"
+  },
+  {
+    "name": "Innovation"
+  },
+  {
+    "name": "Interculturalité"
+  },
+  {
+    "name": "Interactions sociales"
+  },
+  {
+    "name": "Interdisciplinarité"
+  },
+  {
+    "name": "Intermédialité"
+  },
+  {
+    "name": "Intertextualité"
+  },
+  {
+    "name": "Intrigue"
+  },
+  {
+    "name": "Jeunesse"
+  },
+  {
+    "name": "Justice"
+  },
+  {
+    "name": "Linguistique computationnelle"
+  },
+  {
+    "name": "Linguistique de l énonciation"
+  },
+  {
+    "name": "Linguistique historique"
+  },
+  {
+    "name": "Linguistique textuelle"
+  },
+  {
+    "name": "Littérature contemporaine"
+  },
+  {
+    "name": "Maladie"
+  },
+  {
+    "name": "Management comparé"
+  },
+  {
+    "name": "Marché du travail"
+  },
+  {
+    "name": "Marchés boursiers"
+  },
+  {
+    "name": "Médecine"
+  },
+  {
+    "name": "Médias"
+  },
+  {
+    "name": "Mémoire"
+  },
+  {
+    "name": "Méthodologie"
+  },
+  {
+    "name": "Migration"
+  },
+  {
+    "name": "Militantisme"
+  },
+  {
+    "name": "Mobilisations"
+  },
+  {
+    "name": "Monde arabe"
+  },
+  {
+    "name": "Mondialisation"
+  },
+  {
+    "name": "Monnaie"
+  },
+  {
+    "name": "Mouvements sociaux"
+  },
+  {
+    "name": "Multiculturalisme"
+  },
+  {
+    "name": "Narratologie"
+  },
+  {
+    "name": "Nationalisme"
+  },
+  {
+    "name": "Neurosciences"
+  },
+  {
+    "name": "Obéissance  désobéissances"
+  },
+  {
+    "name": "Orientalisme"
+  },
+  {
+    "name": "Orientation scolaire et professionnelle"
+  },
+  {
+    "name": "Partis politiques"
+  },
+  {
+    "name": "Patrimoine"
+  },
+  {
+    "name": "Perception"
+  },
+  {
+    "name": "Peuples autochtones"
+  },
+  {
+    "name": "Phénoménologie"
+  },
+  {
+    "name": "Philosophie des sciences sociales"
+  },
+  {
+    "name": "Photographie"
+  },
+  {
+    "name": "Police"
+  },
+  {
+    "name": "Police scientifique"
+  },
+  {
+    "name": "Politique de l'innovation"
+  },
+  {
+    "name": "Politique de la recherche"
+  },
+  {
+    "name": "Politique publique"
+  },
+  {
+    "name": "Politique universitaire"
+  },
+  {
+    "name": "Politique urbaine"
+  },
+  {
+    "name": "Pratiques documentaires"
+  },
+  {
+    "name": "Prévention"
+  },
+  {
+    "name": "Propagande"
+  },
+  {
+    "name": "Prosopographie"
+  },
+  {
+    "name": "Psychanalyse"
+  },
+  {
+    "name": "Psychiatrie"
+  },
+  {
+    "name": "Psychologie culturelle"
+  },
+  {
+    "name": "Psychologie de la personnalité"
+  },
+  {
+    "name": "Psychologie différentielle"
+  },
+  {
+    "name": "Psychologie interculturelle"
+  },
+  {
+    "name": "Psychologie vocationnelle"
+  },
+  {
+    "name": "Psychothérapie"
+  },
+  {
+    "name": "Racisme Antiracisme"
+  },
+  {
+    "name": "Réglementation"
+  },
+  {
+    "name": "Régulation émotionnelle"
+  },
+  {
+    "name": "Relations intergroupes"
+  },
+  {
+    "name": "Relations internationales"
+  },
+  {
+    "name": "Renaissance"
+  },
+  {
+    "name": "Représentation politique"
+  },
+  {
+    "name": "Représentation sociale"
+  },
+  {
+    "name": "Reproduction"
+  },
+  {
+    "name": "Réseaux sociaux"
+  },
+  {
+    "name": "Révolution"
+  },
+  {
+    "name": "Rhétorique"
+  },
+  {
+    "name": "Risque"
+  },
+  {
+    "name": "Romanisation"
+  },
+  {
+    "name": "Russie et Union Soviétique"
+  },
+  {
+    "name": "Santé"
+  },
+  {
+    "name": "Science participative"
+  },
+  {
+    "name": "Sciences actuarielles"
+  },
+  {
+    "name": "Sciences forensiques"
+  },
+  {
+    "name": "Sexualité"
+  },
+  {
+    "name": "Sociétés amérindiennes"
+  },
+  {
+    "name": "Sociologie des sciences"
+  },
+  {
+    "name": "Sociologie des groupes professionnels"
+  },
+  {
+    "name": "Sociologie des sciences et techniques"
+  },
+  {
+    "name": "Sociologie du cinéma suisse"
+  },
+  {
+    "name": "Sociologie du travail et de l'emploi"
+  },
+  {
+    "name": "Sociologie économique"
+  },
+  {
+    "name": "Sociologie politique"
+  },
+  {
+    "name": "Statistique textuelle"
+  },
+  {
+    "name": "Stratégie"
+  },
+  {
+    "name": "Stratification sociale"
+  },
+  {
+    "name": "Stress"
+  },
+  {
+    "name": "Suisse"
+  },
+  {
+    "name": "Suisse alémanique"
+  },
+  {
+    "name": "Suisse italienne"
+  },
+  {
+    "name": "Suisse romande"
+  },
+  {
+    "name": "Syndicats"
+  },
+  {
+    "name": "Systèmes d'information"
+  },
+  {
+    "name": "Technologies de l'information"
+  },
+  {
+    "name": "Temps et temporalité"
+  },
+  {
+    "name": "Théorie littéraire"
+  },
+  {
+    "name": "Théorie politique"
+  },
+  {
+    "name": "Traduction"
+  },
+  {
+    "name": "Trajectoires de santé"
+  },
+  {
+    "name": "Trajectoires professionnelles"
+  },
+  {
+    "name": "Travail"
+  },
+  {
+    "name": "Université Hautes écoles"
+  },
+  {
+    "name": "Valeur sociale"
+  },
+  {
+    "name": "Vieillissement Personnes âgées Gérontologie"
+  },
+  {
+    "name": "Violence"
+  },
+  {
+    "name": "Vote Votations"
+  },
+  {
+    "name": "Vulnérabilité"
+  }
+]

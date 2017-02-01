@@ -1,0 +1,63 @@
+<template name="universeSelectize">
+    <div class="selectize-control universe-selectize
+                {{#if multiple}}multi{{else}}single{{/if}}
+                {{#if removeButton}}plugin-remove_button{{/if}}
+                {{#if loading}}loading{{/if}}">
+        <select name={{name}} multiple={{multiple}} id={{id}} data-schema-key={{dataSchemaKey}}>
+            <option value=""></option>
+            {{#each getItems}}
+                <option value={{value}} selected={{selected}}>{{label}}</option>
+            {{/each}}
+        </select>
+
+        <div class="selectize-input items not-full has-options has-items
+                    {{#if disabled}}disabled{{/if}}
+                    {{#if open}}focus input-active dropdown-active{{/if}}">
+
+            {{#if getPlaceholder}}
+                <div class="universe-selectize-placeholder {{#if open}}hidden{{/if}}">
+                    {{getPlaceholder}}
+                </div>
+            {{/if}}
+
+            {{#if inputPosition -1}}
+                <input type="text" autocomplete="off" tabindex="" class="js-universeSelectizeInput">
+            {{/if}}
+
+            {{#each getItemsSelected}}
+                <div data-value={{value}} class="item">
+                    {{label}}
+                    {{#if removeButton}}
+                        <a href="#" class="remove" tabindex="-1" title="Remove">×</a>
+                    {{/if}}
+                </div>
+
+                {{#if inputPosition @index}}
+                    <input type="text" autocomplete="off" tabindex="" class="js-universeSelectizeInput">
+                {{/if}}
+            {{/each}}
+        </div>
+
+        <div class="selectize-dropdown js-selectize-dropdown {{#unless open}}hidden{{/unless}}">
+            <div class="selectize-dropdown-content">
+                {{#each getItemsUnselected}}
+                    <div data-value={{value}} data-index={{@index}} data-selectable class="option {{#if activeOption @index}}active{{/if}} {{isPlaceholder}}">
+                        {{label}}
+                    </div>
+                {{/each}}
+                {{#if create}}
+                    {{#if getSearchText}}
+                        <div data-selectable="" data-index='create' class="create {{#if activeOption 'create'}}active{{/if}}">
+                            {{#if createText}}
+                                {{{createText}}}
+                            {{else}}
+                                Add
+                            {{/if}}
+                            <strong>{{getSearchText}}</strong>…
+                        </div>
+                    {{/if}}
+                {{/if}}
+            </div>
+        </div>
+    </div>
+</template>

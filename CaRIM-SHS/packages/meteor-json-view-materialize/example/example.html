@@ -1,0 +1,19 @@
+<head>
+  <title>example</title>
+</head>
+
+<body>
+  <h1>Welcome to Meteor!</h1>
+
+  {{> hello}}
+</body>
+
+<template name="hello">
+  <button class="btn-update-json">Update JSON</button>
+  <pre>
+    {{{jsonData}}}
+  </pre>
+  {{#with jsonData}}
+    {{> jsonView json=this options=options }}
+  {{/with}}
+</template>

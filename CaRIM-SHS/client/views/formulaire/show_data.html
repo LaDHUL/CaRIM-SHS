@@ -1,0 +1,9 @@
+<template name='showData'>
+  <h1>{{title}}</h1>
+  <br>
+  <div>
+  {{#if Template.subscriptionsReady}}
+  {{> jsonView json=jsonData options=options }}
+  {{/if}}
+</div>
+</template>

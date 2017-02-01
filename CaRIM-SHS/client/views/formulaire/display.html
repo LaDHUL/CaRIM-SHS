@@ -1,0 +1,75 @@
+<template name="display">
+
+  <div class ='panel-body' role="insert">
+  {{#if isArray}}
+    {{#each this}}
+
+      {{> show }}
+
+    {{/each}}
+  {{else}}
+
+    {{> show }}
+
+  {{/if}}
+</div>
+</template>
+
+<template name='show'>
+  <div class="row">
+    <div class="col-xs-10">
+      {{#each items}}
+      {{#if key}}
+      <b>{{getTxt key "label"}} </b>
+      {{/if}}
+      {{{text}}}
+      {{/each}}
+    </div>
+    <div class="col-xs-2">
+      {{#quickRemoveButton remove}}
+        <span class="glyphicon glyphicon-minus visible-xs"></span>
+        <span class="hidden-xs">{{getTxt type 'buttonsupprimer'}}</span>
+      {{/quickRemoveButton}}
+    </div>
+ </div>
+ <hr>
+</template>
+
+<template name="displayComp">
+
+  {{#if isArray}}
+    {{#each this}}
+    <div class="panel panel-default">
+    <div class ='panel-body' role="insert">
+      {{> showComp}}
+    </div>
+  </div>
+    {{/each}}
+  {{else}}
+  <div class="panel panel-default">
+  <div class ='panel-body' role="insert">
+    {{> showComp}}
+  </div>
+</div>
+  {{/if}}
+</template>
+
+<template name='showComp'>
+  <div class="row">
+      {{#each items}}
+        <div class="col-xs-12">
+      {{#if key}}
+      <b>{{getTxt key "label"}} </b>
+      {{/if}}
+    <p>  {{{text}}} </p>
+        </div>
+      {{/each}}
+
+    <div class="col-xs-12">
+      {{#quickRemoveButton remove}}
+        <span class="glyphicon glyphicon-minus visible-xs"></span>
+        <span class="hidden-xs">{{getTxt type 'buttonsupprimer'}}</span>
+      {{/quickRemoveButton}}
+    </div>
+ </div>
+</template>

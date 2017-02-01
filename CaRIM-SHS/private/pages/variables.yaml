@@ -1,0 +1,301 @@
+collegues:
+  label: false
+  placeholder: >
+    cherchez et sélectionnez des personnes actives à l'UNIL
+  titre: Aidez-nous
+  aide: Commencez la saisie et sélectionnez une ou plusieurs personnes.
+  description: >
+    Dans le but de rassembler le plus grand nombre de répondants possible, nous
+    vous serions particulièrement reconnaissants de nous suggérer les noms de
+    collègues UNIL (par exemple 5 collègues) dans votre environnement
+    institutionnel ou scientifique proche ou moins proche dont une partie de
+    l'activité, à votre connaissance, comporte une dimension significative en
+    informatique pour les sciences humaines et sociales.
+  buttonvalider: Valider
+  buttonsupprimer: Supprimer
+remarques:
+  label: 'Remarques'
+  placeholder: 'Vos remarques sont les bienvenues.'
+personne:
+  info:
+    titre: Informations personnelles
+    aide: ''
+    description: >
+      Données extraites automatiquement de la base de données publique de
+      l’Unil.
+    nom:
+      label: 'Nom'
+      placeholder: ''
+    prenom:
+      label: 'Prénom'
+      placeholder: ''
+    naissence:
+      label: Date de naissance
+      placeholder: 'Commencez la saisie pour chercher et sélectionner.  '
+    status:
+      label: 'Fonction'
+      placeholder: ''
+    anonymat:
+      label: >
+        Souhaitez-vous que votre nom et prénom apparaissent dans la visualisation des données :
+    anonymat2:
+      label: Non
+    anonymat1:
+      label: Oui
+    buttonvalider: Valider
+    buttonsupprimer: Supprimer
+  unites:
+    titre: Rattachement(s) institutionnel(s)
+    aide:
+    description: 'Rattachements institutionnels (facultés, instituts, services centraux).<br>Ajoutez tous vos rattachements à cette liste.'
+    placeholder: 'Commencez la saisie pour chercher et sélectionner.   '
+    buttonvalider: Ajouter
+    buttonsupprimer: Supprimer
+  activites:
+    titre: Types d'activités
+    aide: Plusieurs choix possibles.
+    description: Type(s) d'activité dans lequel s'inscrit votre pratique.
+    activites:
+      label: ''
+    buttonvalider: Valider
+    buttonsupprimer: Supprimer
+  domaines:
+    titre: Champs disciplinaires
+    aide: Vous pouvez ajouter jusqu'à 5 champs disciplinaires.<br> Et pour chacun le nombre de mots-clé que vous souhaitez.
+    description: >
+      Champ(s) disciplinaire(s) dans le(s)quel(s) s’inscrivent vos activités de
+      recherche, d’enseignement et/ou de support à la recherche ou à
+      l'enseignement.<br>
+      Vous pouvez associer un champ disciplinaire à plusieurs mots-clé et à un ou plusieurs types d’activité:<br>
+      Utilisez les mots-clé pour préciser votre champ disciplinaire (qui peut être spécifique ou non - par exemple "Sciences Humaines").<br>
+      Il est possible d'ajouter librement des mots-clé, en tapant leur nom.
+    domaines:
+      label: 'Champ disciplinaire'
+      placeholder: 'Commencez la saisie pour chercher et sélectionner.'
+    domaines_motscles:
+      label: "Mots-clés"
+      placeholder: 'Commencez la saisie pour chercher et sélectionner ou ajouter.'
+    domaines_activites:
+      label:  Types d'activités
+    buttonvalider: Ajouter
+    buttonsupprimer: Supprimer
+competences:
+  titre: Pratiques et compétences numériques
+  aide: |
+        Autres exemples:<br>
+           <b>Outils numériques : Linux</b><br>
+           <b>Types de données : <br>
+           <b>Finalités et méthodes :</b><br>
+        <hr>
+           <b>Outils numériques : XML</b><br>
+           <b>Types de données : texte<br>
+           <b>Finalités et méthodes : </b>
+  description: >
+    Une compétence associe des outils numériques, des finalités/méthodes et un ou plusieurs types de données.<br>
+    <br>Par exemple vous pouvez ajouter les compétences suivantes:<br>
+      <b>Outils numériques : PostgreSQL & PostGIS</b><br>
+      <b>Types de données : Données qualitatives & Géodonnées</b><br>
+      <b>Finalités et méthodes : Traitement > Gestion des données > Système d'information > Base de données</b><br>
+      et:<br>
+       <b>Outils numériques : R & SPSS</b><br>
+       <b>Types de données : Données qualitatives<br>
+       <b>Finalités et méthodes :  Traitements > Analyse > Analyse statistique </b>.<br>Traitements > Interprétation > Visualisation > Visualisation de données statistiques</b>
+       <br><br>Vous pouvez ajouter autant de compétences que vous voulez.<br>
+
+  niveau1: >
+    Sélectionnez le premier critère d'entrée de votre compétence:
+  buttonlogiciels: Outils numériques
+  buttonfinalites: Finalités et méthodes
+  buttonobjets: Nature des données
+  niveau2: |
+    Sélectionnez le second critère:
+competence:
+  titre: Compétence
+  aide: >-
+    Si nécessaire, vous pouvez changer l'ordre des entrées pour les compétences suivantes.<br>
+        <br>Par exemple vous pouvez ajouter les compétences suivantes:<br>
+          <b>Outils numériques : PostgreSQL & PostGIS</b><br>
+          <b>Types de données : Données qualitatives & Géodonnées</b><br>
+          <b>Finalités et méthodes : Traitement > Gestion des données > Système d'information > Base de données</b><br>
+          ou:<br>
+           <b>Outils numériques : R & SPSS</b><br>
+           <b>Types de données : Données qualitatives</b><br>
+           <b>Finalités et méthodes :  Traitements > Analyse > Analyse statistique </b>.<br>Traitements > Interprétation > Visualisation > Visualisation de données statistiques
+  description: >
+    Déclarez une compétence en choisissant un ou plusieurs outils numériques, une ou plusieurs finalités/méthodes et un ou plusieurs types de données. <br><br>
+  logiciels:
+    titre: Outils numériques
+    aide: >
+      Par exemple : Adobe Photoshop, R, API, Python, etc.
+    description: >-
+      Sélectionnez un outil numérique (logiciel applicatif, technologie, langage de programmation, etc.). <br>
+      Ajoutez tous les outils numériques que vous utilisez pour cette compétence.<br>
+      Vous pouvez saisir des outils manquants en tapant leur nom et en sélectionnant "Add [nom de l'outil]" dans la liste.
+    buttonvalider: Ajouter
+    buttonsupprimer: Supprimer
+  niveaus:
+    logiciels:
+      label: ''
+      placeholder: 'Commencez la saisie pour chercher et sélectionner ou ajouter une entrée manquante.'
+  finalites:
+    titre: Finalités et méthodes
+    aide: >
+      Par exemple :<br>
+      <b> Acquisition de données > Collecte de données existantes > Assemblage de données d'origine et/ou de nature variées</b><br>
+      ou encore <b> Création propre > Enrichissement de données > Annotation > Encodage > Saisie de données</b>.
+    description: >-
+      Ajoutez une ou plusieurs finalités et/ou méthodes liées à l'utilisation d'outils numériques associés à cette compétence.<br>
+      Le déroulé du référentiel dans son entier peut être consulté en cliquant sur l'icône <a role="button" href='finalites' target='_blank' class="btn-xs btn btn-default">
+      <span><i class="fa fa-database" aria-hidden="true"></i></span>
+      </a>.
+    placeholder: 'Commencez la saisie pour chercher ou cliquez.'
+    buttonvalider: Ajouter
+    buttonsupprimer: Supprimer
+    activites:
+      label: "Type(s) d'activité associé(s) à cette compétence numérique."
+  objets:
+    titre: Nature des données
+    aide: >
+      Par exemple : vidéo, audio, texte, données du web, etc.<br>
+    description: >-
+      Nature des données construites, traitées ou analysées dans le cadre de l'utilisation d'un outil numérique.<br>
+      Ajoutez une ou plusieurs natures de données à cette compétence.
+    objets:
+      label: ''
+      placeholder: 'Commencez la saisie pour chercher et sélectionner.'
+    buttonvalider: Ajouter
+    buttonsupprimer: Supprimer
+  buttonajouter: Ajouter une nouvelle compétence
+  buttonediter: Editer cette compétence
+  buttonsupprimer: Supprimer cette compétence
+  buttonfermer: Reduire les compétences
+projets:
+  titre: Projets
+  aide: Documentez les différents projets un par un.
+  description: >
+    Documentez ici les outils numériques mobilisés ou développés dans le cadre de projets liés à la recherche, à l'enseignement ou au support à la recherche ou à l'enseignement.
+  question: >
+    Avez-vous ou avez-vous eu la responsabilité d'un projet à composante numérique forte ?
+  buttonvalider: Valider
+  buttonsupprimer: Supprimer
+projet:
+  titre: Projet
+  buttonfermer: Reduire les projets
+  buttonediter: Editer
+  buttonsupprimer: Supprimer
+  buttonajouter: Ajouter un projet
+  aide: Renseignez chaque projet un par un.
+  description: >
+    Décrivez l'utilisation d'outils numériques dans le cadre d'un projet spécifique.
+  info:
+    titre: Informations générales
+    aide: ''
+    description: ''
+    nom:
+      label: "Titre du projet"
+      placeholder: 'Nom de votre projet'
+    duree:
+      debut:
+        label: Début
+        placeholder: '2015'
+      fin:
+        label: 'Fin'
+        placeholder: '2054'
+    idFNS:
+      label: Identifiant FNS
+      placeholder: '000000'
+    motscles:
+      label: false
+      placeholder: 'Commencez la saisie pour chercher un mot-clé ou ajouter une entrée manquante.'
+    activites:
+      label: >
+        Types d'activités
+    buttonvalider: Valider
+    buttonsupprimer: Supprimer
+    collaborateurs:
+      label: false
+      placeholder: 'Commencez la saisie pour chercher et ajouter un collaborateur'
+    financements:
+      label: ''
+      placeholder: 'Commencez la saisie pour chercher et ajouter un financement'
+  motscles:
+    titre: Mots-Clés
+    aide: >-
+      Par exemple : Occupation du sol, Milieux arides, Cartographie, Peuplement, Mise en valeur, SIG.
+    description: >
+      Mots-clés libres qui, combinés, permettent de mieux définir le contenu et la portée du projet.
+      Ajoutez vos mots clés à la liste.
+  activites:
+    titre: Contexte du projet
+    aide: Plusieurs choix possibles.
+    description: |
+      Type(s) d'activité dans le(s)quel(s) s'inscrit le projet.
+  collaborateurs:
+    titre: Collaborateurs.trices Unil du projet
+    aide: >-
+      Indiquez les adresses mails de vos collaborateurs :<br>
+       saisissez les premières lettres de leur nom.
+    description: Noms des collaborateurs.trices Unil impliqué.e.s dans le projet.
+  financements:
+    titre: Sources de financement
+    aide: 'Par exemple : FNS, SwissUniversities, etc.'
+    description: Organisme financeur du projet.
+  unites:
+    titre: Rattachement(s) institutionnel(s) du projet
+    aide: Taper les premières lettres du nom de la faculté ou l'institut.
+    description: >
+      Indiquez à quel(le)s facultés, instituts ou services centraux est rattaché
+      le projet.
+    placeholder: 'Commencez la saisie pour chercher et sélectionner, ou bien ajouter une nouvelle entrée.'
+    buttonvalider: Ajouter
+    buttonsupprimer: Supprimer
+  logiciels:
+    titre: Outils numériques utilisés dans le cadre du projet
+    aide: >
+      Là encore, il s'agit d'outils numériques au sens large :<br> logiciel,
+      applicatif, technologie du type API, langage de programmation ou de scripting, etc.<br><br>
+      Si l'outil numérique (logiciel applicatif, base de données, script, plug-in) a été créé dans le cadre du projet, cochez la case correspondante.<br><br>
+      Par exemple : package R, macro Excel, scripts, base de données Lumières.Lausanne, base de données Viatimages, etc.
+    description: |
+        Outils numériques utilisés dans le cadre du projet.<br>
+        Vous pouvez saisir des outils manquants en tapant leur nom et en sélectionnant "Add [nom de l'outil]" dans la liste.
+    label: false
+    buttonsupprimer: Supprimer
+    logiciels:
+      label: ''
+      placeholder: 'Commencez la saisie pour chercher et sélectionner, ou bien ajouter une nouvelle entrée.'
+    cree:
+      label: "L'outil numérique a été développé dans le cadre du projet."
+    buttonvalider: Ajouter
+  finalites:
+    titre: Finalités et méthodes
+    aide: >-
+      Par exemple :<br>
+      <b> Acquisition de données > Collecte de données existantes > Assemblage de données d'origine et/ou de nature variées</b><br>
+      ou encore: <br><b> Création propre > Enrichissement de données > Annotation > Encodage > Saisie de données</b>.
+    description: >-
+      Sélectionnez une ou plusieurs finalités et/ou méthodes liées à l'utilisation d'outils numériques. <br>
+      <br>
+      Le déroulé du référentiel dans son entier peut être consulté en cliquant sur l'icône à droite de la bulle d'aide. <br>
+      Ce référentiel autorise différents niveaux de précision. Si seul le premier niveau correspond à votre compétence, il n’est pas nécessaire de renseigner les niveaux suivants.
+      <br><br>Plusieurs items possibles.
+    placeholder: 'Commencez la saisie pour chercher et sélectionner'
+    buttonvalider: Ajouter
+    buttonsupprimer: Supprimer
+  objets:
+    titre: Nature des données
+    aide: 'Par exemple : vidéo, audio, texte, données du web, etc.'
+    description: >
+      Nature des données construites, traitées ou analysées avec un outil numérique dans le cadre d'un projet.
+    objets:
+      label: ''
+      placeholder: 'Commencez la saisie pour chercher et sélectionner'
+    buttonvalider: Ajouter
+    buttonsupprimer: Supprimer
+remerciments:
+  texte: >
+    Les responsables du projet CaRIM-SHS vous remercient vivement d'avoir
+    pris le temps de répondre à ce questionnaire. Nous espérons que la
+    cartographie globale des pratiques et compétences numériques en SHS pourra
+    être utile à la communauté et nous vous tiendrons informés de sa mise à
+    disposition.

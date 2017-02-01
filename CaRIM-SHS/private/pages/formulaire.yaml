@@ -1,0 +1,39 @@
+page: "formulaire"
+titre: "Le formulaire"
+contenu:
+  - |
+    L’équipe de CARIM-SHS vous remercie d’accepter de répondre à ce questionnaire et de participer activement à l’établissement de cette cartographie des compétences informatiques en SHS.
+  - |
+    En fonction de la variété de vos pratiques et compétences numériques et du nombre de projets à forte composante numérique que vous avez dirigés, le temps de remplissage du questionnaire peut varier selon le nombre de vos compétences informatiques. Cependant, le remplissage du formulaire peut être interrompu et repris à n'importe quel moment.
+  - |
+    L’accès au questionnaire se fait via vos identifiants Unil, ce qui permet, d’une part, de pré-remplir certaines données institutionnelles vous concernant, et, d’autre part, de recharger les données d’une session précédente si vous souhaitez remplir ce questionnaire en plusieurs fois.
+  - |
+    Nous espérons recueillir un maximum de réponses aussi rapidement que possible ; si vous pouviez remplir ce questionnaire d'ici une dizaine de jours, ce serait fort apprécié de notre côté.
+  - |
+     <hr>
+     Le formulaire contient les boutons suivants qui permettent d'accéder à des fonctionnalités supplémentaires :
+      <ul class="list-group">
+      <li class="list-group-item">
+          <a role="button" class="btn btn-default">
+          <span><i class="fa fa-comment-o" aria-hidden="true"> </i></span>
+          </a> Pour ajouter un commentaire à un champ (par exemple si vous avez besoin d'aide ou d'un conseil) ;
+      </li>
+      <li class="list-group-item">
+          <a role="button" class="btn btn-default">
+            <span>  <i class="fa fa-database" aria-hidden="true"></i></span>
+          </a> Permet d'afficher une représentation graphique des référentiels (visualisation d'un thésaurus, par exemple) ;
+            </li>
+      <li class="list-group-item">
+          <a role="button" class="btn btn-default" >
+          <span>  <i class="fa fa-question" aria-hidden="true"> </i></span>
+          </a> Affiche une aide supplémentaire concernant le remplissage du champ.
+          </li>
+      </ul>
+      <div class="alert alert-danger text-center">
+      <strong>Important :<br> pour que vos données soient correctement prises en compte, n'oubliez pas de valider vos entrées à chacune des étapes.</strong><br>
+      </div>
+      <div class="alert alert-info text-center">
+      <strong>Pour toute question ou besoin d’assistance n’hésitez pas à contacter
+      <a href="mailto:Bassim.Matar@unil.ch">Bassim Matar</a>, assistant-étudiant en Sciences du Langage et de l'Information.
+      </strong>
+      </div>

@@ -1,0 +1,1500 @@
+[
+  {
+    "classe": "Administration Publique",
+    "name": "Administration Publique",
+    "groupe": "",
+    "sort": 1,
+    "_id": "CqrSX977wKjHXgcDh"
+  },
+  {
+    "classe": "Administration Publique",
+    "name": "administration suisse",
+    "groupe": "",
+    "sort": 6,
+    "_id": "PDZ8FytKogzFHS4vM"
+  },
+  {
+    "classe": "Administration Publique",
+    "name": "économie de la régulation",
+    "groupe": "",
+    "sort": 11,
+    "_id": "npgXYwSCMwgJYAJt3"
+  },
+  {
+    "classe": "Administration Publique",
+    "name": "finances publiques",
+    "groupe": "",
+    "sort": 16,
+    "_id": "8vM8b9S8ecdYMRyeC"
+  },
+  {
+    "classe": "Administration Publique",
+    "name": "gouvernance numérique",
+    "groupe": "",
+    "sort": 21,
+    "_id": "qZpBwxDpH9keReTga"
+  },
+  {
+    "classe": "Administration Publique",
+    "name": "management public et gestion des ressources humaines",
+    "groupe": "",
+    "sort": 26,
+    "_id": "xJarWthqDyznGmQFc"
+  },
+  {
+    "classe": "Administration Publique",
+    "name": "management public et marketing",
+    "groupe": "",
+    "sort": 31,
+    "_id": "Z7eSJ8ybYzM47GLB8"
+  },
+  {
+    "classe": "Administration Publique",
+    "name": "management public et systèmes d'information",
+    "groupe": "",
+    "sort": 36,
+    "_id": "k3aHqzcmfCFcmJdcR"
+  },
+  {
+    "classe": "Administration Publique",
+    "name": "politiques institutionnelles",
+    "groupe": "",
+    "sort": 41,
+    "_id": "NQJZCrMxjkwuCSQ9T"
+  },
+  {
+    "classe": "Administration Publique",
+    "name": "politiques locales et évaluation des politiques publiques",
+    "groupe": "",
+    "sort": 46,
+    "_id": "zTXzZfZ6N6hKdSBNL"
+  },
+  {
+    "classe": "Administration Publique",
+    "name": "politiques publiques et durabilité",
+    "groupe": "",
+    "sort": 51,
+    "_id": "hhGmCPEWtQesYAFEB"
+  },
+  {
+    "classe": "Administration Publique",
+    "name": "politiques sociales",
+    "groupe": "",
+    "sort": 56,
+    "_id": "AnW78cKZGLBJGF6eJ"
+  },
+  {
+    "classe": "Droit",
+    "name": "Droit",
+    "groupe": "",
+    "sort": 61,
+    "_id": "TmJ6atzquZ5QS4Chs"
+  },
+  {
+    "classe": "Droit",
+    "name": "criminalité et sécurité des technologies de l'information",
+    "groupe": "",
+    "sort": 66,
+    "_id": "H9K8w7BA2WvnB4gGd"
+  },
+  {
+    "classe": "Droit",
+    "name": "Droit administratif",
+    "groupe": "",
+    "sort": 71,
+    "_id": "jMEtAFDpkwgRwAFdr"
+  },
+  {
+    "classe": "Droit",
+    "name": "Droit civil",
+    "groupe": "",
+    "sort": 76,
+    "_id": "7AWAraHFanGc9aWBm"
+  },
+  {
+    "classe": "Droit",
+    "name": "Droit commercial",
+    "groupe": "",
+    "sort": 81,
+    "_id": "km2DBBXYNxzJaPnZi"
+  },
+  {
+    "classe": "Droit",
+    "name": "Droit constitutionnel",
+    "groupe": "",
+    "sort": 86,
+    "_id": "C7BzyMjxMLEvBgkYH"
+  },
+  {
+    "classe": "Droit",
+    "name": "Droit des obligations",
+    "groupe": "",
+    "sort": 91,
+    "_id": "Xb97es95j8GoL2weK"
+  },
+  {
+    "classe": "Droit",
+    "name": "Droit des poursuites et faillites",
+    "groupe": "",
+    "sort": 96,
+    "_id": "BFvDaQAEw8HHyYGzd"
+  },
+  {
+    "classe": "Droit",
+    "name": "Droit du travail et sécurité sociale",
+    "groupe": "",
+    "sort": 101,
+    "_id": "9rFCS7WBFALdWorP2"
+  },
+  {
+    "classe": "Droit",
+    "name": "Droit européen",
+    "groupe": "",
+    "sort": 106,
+    "_id": "9wb7rK3b4GyjPsGkx"
+  },
+  {
+    "classe": "Droit",
+    "name": "Droit fiscal",
+    "groupe": "",
+    "sort": 111,
+    "_id": "tdv3FwLkY79CdZBrR"
+  },
+  {
+    "classe": "Droit",
+    "name": "Droit international et comparé",
+    "groupe": "",
+    "sort": 116,
+    "_id": "MNSTGcJxguoLMMfSK"
+  },
+  {
+    "classe": "Droit",
+    "name": "Droit pénal",
+    "groupe": "",
+    "sort": 121,
+    "_id": "7ou4BNaqSJfKBJq6i"
+  },
+  {
+    "classe": "Droit",
+    "name": "Droit public",
+    "groupe": "",
+    "sort": 126,
+    "_id": "nvFZXeXo5WtScWPaX"
+  },
+  {
+    "classe": "Droit",
+    "name": "Droit social",
+    "groupe": "",
+    "sort": 131,
+    "_id": "jaKA35KrQ2rAy2kmo"
+  },
+  {
+    "classe": "Droit",
+    "name": "histoire du Droit",
+    "groupe": "",
+    "sort": 136,
+    "_id": "xyF37hgNLTwgp2oGf"
+  },
+  {
+    "classe": "Droit",
+    "name": "philosophie du Droit et théorie juridique",
+    "groupe": "",
+    "sort": 141,
+    "_id": "6hb4nXEjd5gxr7bcv"
+  },
+  {
+    "classe": "Droit",
+    "name": "sociologie du Droit",
+    "groupe": "",
+    "sort": 146,
+    "_id": "yNSEkZ2tYxwk9zt3z"
+  },
+  {
+    "classe": "Géographie et Environnement (Géosciences)",
+    "name": "Géographie et Environnement (Géosciences)",
+    "groupe": "",
+    "sort": 151,
+    "_id": "GPxYjAdZ9vHoGk5aW"
+  },
+  {
+    "classe": "Géographie et Environnement (Géosciences)",
+    "name": "aménagement des alpes et géoconservation",
+    "groupe": "",
+    "sort": 156,
+    "_id": "6mCCcTjADtMnfJorD"
+  },
+  {
+    "classe": "Géographie et Environnement (Géosciences)",
+    "name": "aménagement du territoire",
+    "groupe": "",
+    "sort": 161,
+    "_id": "CJqTJioww4WH34QZW"
+  },
+  {
+    "classe": "Géographie et Environnement (Géosciences)",
+    "name": "coorpération internationale",
+    "groupe": "",
+    "sort": 166,
+    "_id": "GYXgzPN6hTtr5nHgp"
+  },
+  {
+    "classe": "Géographie et Environnement (Géosciences)",
+    "name": "développement et environnement",
+    "groupe": "",
+    "sort": 171,
+    "_id": "LsTNEcLS6gXYL2GLZ"
+  },
+  {
+    "classe": "Géographie et Environnement (Géosciences)",
+    "name": "durabilité",
+    "groupe": "",
+    "sort": 176,
+    "_id": "fpQjZhpou39Az9WHn"
+  },
+  {
+    "classe": "Géographie et Environnement (Géosciences)",
+    "name": "écologie industrielle",
+    "groupe": "",
+    "sort": 181,
+    "_id": "5uswz6CCsWnzFzRwG"
+  },
+  {
+    "classe": "Géographie et Environnement (Géosciences)",
+    "name": "géographie économique",
+    "groupe": "",
+    "sort": 186,
+    "_id": "JwJyQTJNfdTResAuK"
+  },
+  {
+    "classe": "Géographie et Environnement (Géosciences)",
+    "name": "gestion de l'eau",
+    "groupe": "",
+    "sort": 191,
+    "_id": "Kocdq9Y3WdwktAmJp"
+  },
+  {
+    "classe": "Géographie et Environnement (Géosciences)",
+    "name": "mobilité et transports",
+    "groupe": "",
+    "sort": 196,
+    "_id": "nkmakmW2vkCn7aZiH"
+  },
+  {
+    "classe": "Géographie et Environnement (Géosciences)",
+    "name": "réseaux géographiques",
+    "groupe": "",
+    "sort": 201,
+    "_id": "bbs8aMWQxQwGZwQTx"
+  },
+  {
+    "classe": "Géographie et Environnement (Géosciences)",
+    "name": "tourisme",
+    "groupe": "",
+    "sort": 206,
+    "_id": "ruKdtkfeJAWRx2tsz"
+  },
+  {
+    "classe": "Géographie et Environnement (Géosciences)",
+    "name": "urbanisme",
+    "groupe": "",
+    "sort": 211,
+    "_id": "7aiJGKn2Qqrhi4pjC"
+  },
+  {
+    "classe": "Humanités Digitales / Numériques",
+    "name": "Humanités Digitales / Numériques",
+    "groupe": "",
+    "sort": 216,
+    "_id": "8J84pWiADrL3Tac4K"
+  },
+  {
+    "classe": "Humanités Digitales / Numériques",
+    "name": "digital humanities pour les arts visuels",
+    "groupe": "",
+    "sort": 221,
+    "_id": "JdJ9DpJ6xsoxbRpro"
+  },
+  {
+    "classe": "Humanités Digitales / Numériques",
+    "name": "digital humanities pour les langues et la littérature",
+    "groupe": "",
+    "sort": 226,
+    "_id": "CnautkLBzwDewXS52"
+  },
+  {
+    "classe": "Humanités Digitales / Numériques",
+    "name": "digital humanities pour les sciences historiques",
+    "groupe": "",
+    "sort": 231,
+    "_id": "YZm3Aww5DDxaxzCKs"
+  },
+  {
+    "classe": "Informatique et Méthodes pour les SHS",
+    "name": "Informatique et Méthodes pour les SHS",
+    "groupe": "",
+    "sort": 236,
+    "_id": "fxjQwfQAgW8dYB5cK"
+  },
+  {
+    "classe": "Informatique et Méthodes pour les SHS",
+    "name": "informatique pour la Psychologie",
+    "groupe": "",
+    "sort": 241,
+    "_id": "8TP8XY7NaZu7iRsQt"
+  },
+  {
+    "classe": "Informatique et Méthodes pour les SHS",
+    "name": "informatique pour le Droit et les Sciences Criminelles",
+    "groupe": "",
+    "sort": 246,
+    "_id": "8dGL5QWs73GsQ7dku"
+  },
+  {
+    "classe": "Informatique et Méthodes pour les SHS",
+    "name": "informatique pour les géosciences",
+    "groupe": "",
+    "sort": 251,
+    "_id": "QbQP8YToqvkxco2Hg"
+  },
+  {
+    "classe": "Informatique et Méthodes pour les SHS",
+    "name": "informatique pour les sciences économiques",
+    "groupe": "",
+    "sort": 256,
+    "_id": "pNyiRYi7edFJNKvPk"
+  },
+  {
+    "classe": "Informatique et Méthodes pour les SHS",
+    "name": "informatique pour les Sciences Humaines",
+    "groupe": "",
+    "sort": 261,
+    "_id": "ESNJgMe2psMjBqmDe"
+  },
+  {
+    "classe": "Informatique et Méthodes pour les SHS",
+    "name": "informatique pour les Sciences Sociales et politiques",
+    "groupe": "",
+    "sort": 266,
+    "_id": "dPGduy8CNd9sGuu6L"
+  },
+  {
+    "classe": "Informatique et Méthodes pour les SHS",
+    "name": "mathématiques et statistiques pour la Psychologie",
+    "groupe": "",
+    "sort": 271,
+    "_id": "3RtHLZfzMMoCCH6q7"
+  },
+  {
+    "classe": "Informatique et Méthodes pour les SHS",
+    "name": "mathématiques et statistiques pour le Droit et les Sciences Criminelles",
+    "groupe": "",
+    "sort": 276,
+    "_id": "nrzY8Qw8ss6djCffi"
+  },
+  {
+    "classe": "Informatique et Méthodes pour les SHS",
+    "name": "mathématiques et statistiques pour les géosciences",
+    "groupe": "",
+    "sort": 281,
+    "_id": "r9mDnd5sZBecd2NeE"
+  },
+  {
+    "classe": "Informatique et Méthodes pour les SHS",
+    "name": "mathématiques et statistiques pour les sciences économiques",
+    "groupe": "",
+    "sort": 286,
+    "_id": "KSKTHNGbGwhTxq9d4"
+  },
+  {
+    "classe": "Informatique et Méthodes pour les SHS",
+    "name": "mathématiques et statistiques pour les Sciences Humaines",
+    "groupe": "",
+    "sort": 291,
+    "_id": "oqpwXhPGsHFTngPK4"
+  },
+  {
+    "classe": "Informatique et Méthodes pour les SHS",
+    "name": "mathématiques et statistiques pour les Sciences Sociales et politiques",
+    "groupe": "",
+    "sort": 296,
+    "_id": "j7QBn9dqkhdu62G62"
+  },
+  {
+    "classe": "Informatique et Méthodes pour les SHS",
+    "name": "méthodes qualitatives pour la Psychologie",
+    "groupe": "",
+    "sort": 301,
+    "_id": "ED6Wjoq5tjHSCobdc"
+  },
+  {
+    "classe": "Informatique et Méthodes pour les SHS",
+    "name": "méthodes qualitatives pour le Droit et les Sciences Criminelles",
+    "groupe": "",
+    "sort": 306,
+    "_id": "8nCEZHcbhPeJ2ccgj"
+  },
+  {
+    "classe": "Informatique et Méthodes pour les SHS",
+    "name": "méthodes qualitatives pour les géosciences",
+    "groupe": "",
+    "sort": 311,
+    "_id": "hM6CaYhMEurFaHtKq"
+  },
+  {
+    "classe": "Informatique et Méthodes pour les SHS",
+    "name": "méthodes qualitatives pour les sciences économiques",
+    "groupe": "",
+    "sort": 316,
+    "_id": "TcjdbRdWnpvQJk8Ex"
+  },
+  {
+    "classe": "Informatique et Méthodes pour les SHS",
+    "name": "méthodes qualitatives pour les Sciences Humaines",
+    "groupe": "",
+    "sort": 321,
+    "_id": "b44SFXQv2uNShHGLB"
+  },
+  {
+    "classe": "Informatique et Méthodes pour les SHS",
+    "name": "méthodes qualitatives pour les Sciences Sociales et politiques",
+    "groupe": "",
+    "sort": 326,
+    "_id": "6jYwEoMTpQf2NBhjC"
+  },
+  {
+    "classe": "Psychologie",
+    "name": "Psychologie",
+    "groupe": "",
+    "sort": 331,
+    "_id": "Q82mfGuKjEuN7pAAw"
+  },
+  {
+    "classe": "Psychologie",
+    "name": "développement normal et atypique tout au long de la vie",
+    "groupe": "",
+    "sort": 336,
+    "_id": "ctkuXGyAZN6ADgX9B"
+  },
+  {
+    "classe": "Psychologie",
+    "name": "identité (Psychologie)",
+    "groupe": "",
+    "sort": 341,
+    "_id": "oeHNbRi56XYWHLFEY"
+  },
+  {
+    "classe": "Psychologie",
+    "name": "processus d'apprentissage",
+    "groupe": "",
+    "sort": 346,
+    "_id": "PJAj4p32XxTc2dT8n"
+  },
+  {
+    "classe": "Psychologie",
+    "name": "Psychologie clinique",
+    "groupe": "",
+    "sort": 351,
+    "_id": "X3kH9YkBRDdgDb2aR"
+  },
+  {
+    "classe": "Psychologie",
+    "name": "Psychologie cognitive",
+    "groupe": "",
+    "sort": 356,
+    "_id": "LyqhPW9kqxpRJWtFu"
+  },
+  {
+    "classe": "Psychologie",
+    "name": "Psychologie de la religion",
+    "groupe": "",
+    "sort": 361,
+    "_id": "68A4hu4WHceHpKcGf"
+  },
+  {
+    "classe": "Psychologie",
+    "name": "Psychologie de la santé",
+    "groupe": "",
+    "sort": 366,
+    "_id": "npDAr2AtnDT8YhNQa"
+  },
+  {
+    "classe": "Psychologie",
+    "name": "Psychologie du conseil et de l'orientation",
+    "groupe": "",
+    "sort": 371,
+    "_id": "9yLTbCFpFWTGjuc4g"
+  },
+  {
+    "classe": "Psychologie",
+    "name": "Psychologie du développement",
+    "groupe": "",
+    "sort": 376,
+    "_id": "ffHw56btSFdrvozGM"
+  },
+  {
+    "classe": "Psychologie",
+    "name": "Psychologie du sport",
+    "groupe": "",
+    "sort": 381,
+    "_id": "FpTZjvtJXfhYpMGvk"
+  },
+  {
+    "classe": "Psychologie",
+    "name": "Psychologie sociale",
+    "groupe": "",
+    "sort": 386,
+    "_id": "hL9iJ33RLuyTFu3Qi"
+  },
+  {
+    "classe": "Psychologie",
+    "name": "psychopathologie",
+    "groupe": "",
+    "sort": 391,
+    "_id": "3kDEHHBvSRwcgNW6L"
+  },
+  {
+    "classe": "Psychologie",
+    "name": "relations interpersonnelles et intergroupes",
+    "groupe": "",
+    "sort": 396,
+    "_id": "NuWwBMxqsGMZppXjZ"
+  },
+  {
+    "classe": "Psychologie",
+    "name": "situations éducatives et soins",
+    "groupe": "",
+    "sort": 401,
+    "_id": "mt27icRPS5KugDL72"
+  },
+  {
+    "classe": "Sciences Criminelles",
+    "name": "Sciences Criminelles",
+    "groupe": "",
+    "sort": 406,
+    "_id": "GGL7qRLdXuGXPiLMn"
+  },
+  {
+    "classe": "Sciences Criminelles",
+    "name": "criminalité",
+    "groupe": "",
+    "sort": 411,
+    "_id": "XY5wC8hxib9YgXPsQ"
+  },
+  {
+    "classe": "Sciences Criminelles",
+    "name": "criminologie",
+    "groupe": "",
+    "sort": 416,
+    "_id": "J7atogjt45oiTwGGC"
+  },
+  {
+    "classe": "Sciences Criminelles",
+    "name": "cybercriminalité",
+    "groupe": "",
+    "sort": 421,
+    "_id": "vL4MCBQQ5YAKaoizW"
+  },
+  {
+    "classe": "Sciences Criminelles",
+    "name": "identification et identité numériques",
+    "groupe": "",
+    "sort": 426,
+    "_id": "MP6vZptMAomCcBhBY"
+  },
+  {
+    "classe": "Sciences Criminelles",
+    "name": "indices et traces forensiques",
+    "groupe": "",
+    "sort": 431,
+    "_id": "vnSiz4AuvAKneSaei"
+  },
+  {
+    "classe": "Sciences Criminelles",
+    "name": "sécurité des technologies de l'information",
+    "groupe": "",
+    "sort": 436,
+    "_id": "by7Kx6KkqFnHgyCpX"
+  },
+  {
+    "classe": "Sciences Criminelles",
+    "name": "trace et investigation numériques",
+    "groupe": "",
+    "sort": 441,
+    "_id": "JKPHs8B7yiBQYtyyw"
+  },
+  {
+    "classe": "Sciences Economiques (HEC)",
+    "name": "Sciences Economiques (HEC)",
+    "groupe": "",
+    "sort": 446,
+    "_id": "9KFSW7v2o7tGsCsvG"
+  },
+  {
+    "classe": "Sciences Economiques (HEC)",
+    "name": "assurances",
+    "groupe": "",
+    "sort": 451,
+    "_id": "HMpQ7NGxYJNhTQQmD"
+  },
+  {
+    "classe": "Sciences Economiques (HEC)",
+    "name": "commerce",
+    "groupe": "",
+    "sort": 456,
+    "_id": "K9vNAvuv55ZTSacW6"
+  },
+  {
+    "classe": "Sciences Economiques (HEC)",
+    "name": "comptabilité",
+    "groupe": "",
+    "sort": 461,
+    "_id": "reetZDBADD7pQb55N"
+  },
+  {
+    "classe": "Sciences Economiques (HEC)",
+    "name": "e-business",
+    "groupe": "",
+    "sort": 466,
+    "_id": "ZKicBWcvtEKADdzds"
+  },
+  {
+    "classe": "Sciences Economiques (HEC)",
+    "name": "économétrie",
+    "groupe": "",
+    "sort": 471,
+    "_id": "QfC3ier5FnKhC8jkK"
+  },
+  {
+    "classe": "Sciences Economiques (HEC)",
+    "name": "économie cognitive et neuroéconomie",
+    "groupe": "",
+    "sort": 476,
+    "_id": "3Cy2rvtT7jcwxus7n"
+  },
+  {
+    "classe": "Sciences Economiques (HEC)",
+    "name": "économie comportementale",
+    "groupe": "",
+    "sort": 481,
+    "_id": "QPdTwPPDcXKyQmWTB"
+  },
+  {
+    "classe": "Sciences Economiques (HEC)",
+    "name": "économie d'entreprise",
+    "groupe": "",
+    "sort": 486,
+    "_id": "C3XCgZZKQQ4XTdYiy"
+  },
+  {
+    "classe": "Sciences Economiques (HEC)",
+    "name": "économie de l'assurance",
+    "groupe": "",
+    "sort": 491,
+    "_id": "7TyjtANP4fyjdNDPg"
+  },
+  {
+    "classe": "Sciences Economiques (HEC)",
+    "name": "économie de la santé",
+    "groupe": "",
+    "sort": 496,
+    "_id": "jF7sT4fZJg4HfZkJX"
+  },
+  {
+    "classe": "Sciences Economiques (HEC)",
+    "name": "économie des contrats",
+    "groupe": "",
+    "sort": 501,
+    "_id": "LBHGHka5zRPavXDxi"
+  },
+  {
+    "classe": "Sciences Economiques (HEC)",
+    "name": "économie du travail",
+    "groupe": "",
+    "sort": 506,
+    "_id": "CiqCKWCjsgack8FZc"
+  },
+  {
+    "classe": "Sciences Economiques (HEC)",
+    "name": "économie financière",
+    "groupe": "",
+    "sort": 511,
+    "_id": "e9T6B3LMX6uLmWnnE"
+  },
+  {
+    "classe": "Sciences Economiques (HEC)",
+    "name": "économie internationale",
+    "groupe": "",
+    "sort": 516,
+    "_id": "CQMJJ6bcYJsb2saQZ"
+  },
+  {
+    "classe": "Sciences Economiques (HEC)",
+    "name": "économie publique",
+    "groupe": "",
+    "sort": 521,
+    "_id": "qwreGTz6u8i5dJgi4"
+  },
+  {
+    "classe": "Sciences Economiques (HEC)",
+    "name": "économie spatiale",
+    "groupe": "",
+    "sort": 526,
+    "_id": "4uEJXDh65Wg5KBp7L"
+  },
+  {
+    "classe": "Sciences Economiques (HEC)",
+    "name": "finance",
+    "groupe": "",
+    "sort": 531,
+    "_id": "Sv5EwXXouWY3sKGTy"
+  },
+  {
+    "classe": "Sciences Economiques (HEC)",
+    "name": "finances publiques (HEC)",
+    "groupe": "",
+    "sort": 536,
+    "_id": "StbfD9MvzageqBccM"
+  },
+  {
+    "classe": "Sciences Economiques (HEC)",
+    "name": "gestion de projet",
+    "groupe": "",
+    "sort": 541,
+    "_id": "g6m3aumtb9jFfwDua"
+  },
+  {
+    "classe": "Sciences Economiques (HEC)",
+    "name": "gouvernance d'entreprise",
+    "groupe": "",
+    "sort": 546,
+    "_id": "fSqPN5NYXjYpK3riP"
+  },
+  {
+    "classe": "Sciences Economiques (HEC)",
+    "name": "leadership",
+    "groupe": "",
+    "sort": 551,
+    "_id": "93PrhoZmpGzC6w597"
+  },
+  {
+    "classe": "Sciences Economiques (HEC)",
+    "name": "management",
+    "groupe": "",
+    "sort": 556,
+    "_id": "Hk7xBrcKJzCxq4Y4h"
+  },
+  {
+    "classe": "Sciences Economiques (HEC)",
+    "name": "marchés",
+    "groupe": "",
+    "sort": 561,
+    "_id": "4zJSDXbn2jPcmxafe"
+  },
+  {
+    "classe": "Sciences Economiques (HEC)",
+    "name": "marketing",
+    "groupe": "",
+    "sort": 566,
+    "_id": "7c3EvQfzz3JNavYBW"
+  },
+  {
+    "classe": "Sciences Economiques (HEC)",
+    "name": "risque et sécurité",
+    "groupe": "",
+    "sort": 571,
+    "_id": "xy6roEgL47GRT3j7z"
+  },
+  {
+    "classe": "Sciences Economiques (HEC)",
+    "name": "systèmes d'information",
+    "groupe": "",
+    "sort": 576,
+    "_id": "5qXtZ5QNt7j3waR35"
+  },
+  {
+    "classe": "Sciences Economiques (HEC)",
+    "name": "théorie de la décision",
+    "groupe": "",
+    "sort": 581,
+    "_id": "bFGsZgt72D4zvfSAG"
+  },
+  {
+    "classe": "Sciences Economiques (HEC)",
+    "name": "théorie des jeux",
+    "groupe": "",
+    "sort": 586,
+    "_id": "ttrYwFHjxq5TSwbue"
+  },
+  {
+    "classe": "Sciences Humaines",
+    "name": "Sciences Humaines",
+    "groupe": "",
+    "sort": 591,
+    "_id": "dR97uAnZmtKwGjoJw"
+  },
+  {
+    "classe": "Sciences Humaines",
+    "name": "arts du spectacle",
+    "groupe": "",
+    "sort": 596,
+    "_id": "3opAckh6js48MEf7p"
+  },
+  {
+    "classe": "Sciences Humaines",
+    "name": "danse",
+    "groupe": "arts du spectacle",
+    "sort": 601,
+    "_id": "74TYD9REbMqbMMMMb"
+  },
+  {
+    "classe": "Sciences Humaines",
+    "name": "théâtre",
+    "groupe": "arts du spectacle",
+    "sort": 606,
+    "_id": "zy5GyTijhbAy7k62s"
+  },
+  {
+    "classe": "Sciences Humaines",
+    "name": "arts visuels",
+    "groupe": "",
+    "sort": 611,
+    "_id": "YS8FXHMtwh9FtgMey"
+  },
+  {
+    "classe": "Sciences Humaines",
+    "name": "architecture",
+    "groupe": "arts visuels",
+    "sort": 616,
+    "_id": "NzonCPQtEX9KGujam"
+  },
+  {
+    "classe": "Sciences Humaines",
+    "name": "arts vidéo",
+    "groupe": "arts visuels",
+    "sort": 621,
+    "_id": "LyvK2wEimYQWPsC89"
+  },
+  {
+    "classe": "Sciences Humaines",
+    "name": "bande dessinée",
+    "groupe": "arts visuels",
+    "sort": 626,
+    "_id": "t95bQQHgoD2QQqysg"
+  },
+  {
+    "classe": "Sciences Humaines",
+    "name": "cinéma",
+    "groupe": "arts visuels",
+    "sort": 631,
+    "_id": "SPzcHsukkYrnwNBPS"
+  },
+  {
+    "classe": "Sciences Humaines",
+    "name": "dessin",
+    "groupe": "arts visuels",
+    "sort": 636,
+    "_id": "R3vu8groP9qPmm2k9"
+  },
+  {
+    "classe": "Sciences Humaines",
+    "name": "gravure, dessin",
+    "groupe": "arts visuels",
+    "sort": 641,
+    "_id": "G84AdJLmaahTBFeWK"
+  },
+  {
+    "classe": "Sciences Humaines",
+    "name": "histoire de l'art",
+    "groupe": "arts visuels",
+    "sort": 646,
+    "_id": "uvB24pfoauFjvooz9"
+  },
+  {
+    "classe": "Sciences Humaines",
+    "name": "jeu vidéo",
+    "groupe": "arts visuels",
+    "sort": 651,
+    "_id": "tHspdbHZqZyB3oooi"
+  },
+  {
+    "classe": "Sciences Humaines",
+    "name": "peinture",
+    "groupe": "arts visuels",
+    "sort": 656,
+    "_id": "Rjyn6Ly66iMTvm7o2"
+  },
+  {
+    "classe": "Sciences Humaines",
+    "name": "photographie",
+    "groupe": "arts visuels",
+    "sort": 661,
+    "_id": "CKMZfvFmmwsqzJ6fQ"
+  },
+  {
+    "classe": "Sciences Humaines",
+    "name": "sculpture",
+    "groupe": "arts visuels",
+    "sort": 666,
+    "_id": "XqPy3CwFFbu37HLKe"
+  },
+  {
+    "classe": "Sciences Humaines",
+    "name": "civilisations",
+    "groupe": "",
+    "sort": 671,
+    "_id": "t8dkbtw3ZzcBR2NWm"
+  },
+  {
+    "classe": "Sciences Humaines",
+    "name": "archéologie",
+    "groupe": "civilisations",
+    "sort": 676,
+    "_id": "wXzyxfYNJW7C9wvRs"
+  },
+  {
+    "classe": "Sciences Humaines",
+    "name": "autres traditions religieuses dominantes",
+    "groupe": "civilisations",
+    "sort": 681,
+    "_id": "vpa5ysCXcGCgQYeYr"
+  },
+  {
+    "classe": "Sciences Humaines",
+    "name": "civilisations antiques",
+    "groupe": "civilisations",
+    "sort": 686,
+    "_id": "XnHGwnjCNdapkzHA4"
+  },
+  {
+    "classe": "Sciences Humaines",
+    "name": "civilisations de l'asie du sud",
+    "groupe": "civilisations",
+    "sort": 691,
+    "_id": "Q66J5chgGN3bREZFp"
+  },
+  {
+    "classe": "Sciences Humaines",
+    "name": "civilisations slaves",
+    "groupe": "civilisations",
+    "sort": 696,
+    "_id": "vcCJMoL4tAe5vbSt4"
+  },
+  {
+    "classe": "Sciences Humaines",
+    "name": "etudes américaines",
+    "groupe": "civilisations",
+    "sort": 701,
+    "_id": "dMJuRqTgPzH2XfGdK"
+  },
+  {
+    "classe": "Sciences Humaines",
+    "name": "etudes germaniques",
+    "groupe": "civilisations",
+    "sort": 706,
+    "_id": "qpWJJAZHyyueD6Jbf"
+  },
+  {
+    "classe": "Sciences Humaines",
+    "name": "etudes hispaniques",
+    "groupe": "civilisations",
+    "sort": 711,
+    "_id": "h5KPkZzKCY95Kqy9u"
+  },
+  {
+    "classe": "Sciences Humaines",
+    "name": "traditions religieuses monothéistes (judaïsme, christianisme, islam)",
+    "groupe": "civilisations",
+    "sort": 716,
+    "_id":"r5m7XoGQjRqAHfSSm"
+  },
+  {
+    "classe": "Sciences Humaines",
+    "name": "traditions religieuses transversales et marginalisées",
+    "groupe": "civilisations",
+    "sort": 721,
+    "_id": "zCyFokeydhSvTi2qK"
+  },
+  {
+    "classe": "Sciences Humaines",
+    "name": "histoire",
+    "groupe": "",
+    "sort": 726,
+    "_id": "NGMp5HKSdR4JEB5tC"
+  },
+  {
+    "classe": "Sciences Humaines",
+    "name": "histoire ancienne",
+    "groupe": "histoire",
+    "sort": 731,
+    "_id": "5EvGBHDCwPEgohHHC"
+  },
+  {
+    "classe": "Sciences Humaines",
+    "name": "histoire contemporaine",
+    "groupe": "histoire",
+    "sort": 736,
+    "_id": "69kJEPt9eGsnAwk3t"
+  },
+  {
+    "classe": "Sciences Humaines",
+    "name": "histoire de l'islam",
+    "groupe": "histoire",
+    "sort": 741,
+    "_id": "Z4MRKuKv9W2an4wAe"
+  },
+  {
+    "classe": "Sciences Humaines",
+    "name": "histoire de la pensée politique et économique",
+    "groupe": "histoire",
+    "sort": 746,
+    "_id": "yB9hAfb3o6XN4NcNp"
+  },
+  {
+    "classe": "Sciences Humaines",
+    "name": "histoire du christianisme",
+    "groupe": "histoire",
+    "sort": 751,
+    "_id": "vcew6aYX7TuJs5cJx"
+  },
+  {
+    "classe": "Sciences Humaines",
+    "name": "histoire du judaïsme",
+    "groupe": "histoire",
+    "sort": 756,
+    "_id": "7d8LpRsFuYJrPyvm9"
+  },
+  {
+    "classe": "Sciences Humaines",
+    "name": "histoire et sciences des religions",
+    "groupe": "histoire",
+    "sort": 761,
+    "_id": "QjZo7yQnxEatXeE2Z"
+  },
+  {
+    "classe": "Sciences Humaines",
+    "name": "histoire moderne",
+    "groupe": "histoire",
+    "sort": 766,
+    "_id": "9cggs2XLuADBSnj3b"
+  },
+  {
+    "classe": "Sciences Humaines",
+    "name": "moyen âge",
+    "groupe": "histoire",
+    "sort": 771,
+    "_id": "JGmYi9BoD8iLEbgcu"
+  },
+  {
+    "classe": "Sciences Humaines",
+    "name": "langues, littérature et linguistique",
+    "groupe": "",
+    "sort": 776,
+    "_id": "ahMBn5S9FsSuyw58g"
+  },
+  {
+    "classe": "Sciences Humaines",
+    "name": "allemand",
+    "groupe": "langues, littérature et linguistique",
+    "sort": 781,
+    "_id": "6u8cMc2Z7k7De5BX6"
+  },
+  {
+    "classe": "Sciences Humaines",
+    "name": "anglais",
+    "groupe": "langues, littérature et linguistique",
+    "sort": 786,
+    "_id": "KKWBxwH5hwgdwRnZy"
+  },
+  {
+    "classe": "Sciences Humaines",
+    "name": "arabe",
+    "groupe": "langues, littérature et linguistique",
+    "sort": 791,
+    "_id": "bRT4zmLSJMaEJv496"
+  },
+  {
+    "classe": "Sciences Humaines",
+    "name": "chinois",
+    "groupe": "langues, littérature et linguistique",
+    "sort": 796,
+    "_id": "gYmp2Qx9a7pY7HFpc"
+  },
+  {
+    "classe": "Sciences Humaines",
+    "name": "édition critique",
+    "groupe": "langues, littérature et linguistique",
+    "sort": 801,
+    "_id": "rxXtToccBrSptcTbm"
+  },
+  {
+    "classe": "Sciences Humaines",
+    "name": "espagnol",
+    "groupe": "langues, littérature et linguistique",
+    "sort": 806,
+    "_id": "ydRxWjxXjF5rdFZkJ"
+  },
+  {
+    "classe": "Sciences Humaines",
+    "name": "français langue étrangère",
+    "groupe": "langues, littérature et linguistique",
+    "sort": 811,
+    "_id": "yq79SFRsDp862S4hR"
+  },
+  {
+    "classe": "Sciences Humaines",
+    "name": "français médiéval",
+    "groupe": "langues, littérature et linguistique",
+    "sort": 816,
+    "_id": "2WWNDZ7u86KvAgLqR"
+  },
+  {
+    "classe": "Sciences Humaines",
+    "name": "français moderne",
+    "groupe": "langues, littérature et linguistique",
+    "sort": 821,
+    "_id": "f4gELPnRYx5nBF7bq"
+  },
+  {
+    "classe": "Sciences Humaines",
+    "name": "génétique textuelle",
+    "groupe": "langues, littérature et linguistique",
+    "sort": 826,
+    "_id": "36CsbkCacJCEEWjqo"
+  },
+  {
+    "classe": "Sciences Humaines",
+    "name": "grec ancien",
+    "groupe": "langues, littérature et linguistique",
+    "sort": 831,
+    "_id": "ChDmFA59uHeXLPRM3"
+  },
+  {
+    "classe": "Sciences Humaines",
+    "name": "hébreu",
+    "groupe": "langues, littérature et linguistique",
+    "sort": 836,
+    "_id": "iBkWAxb83yH49ExvY"
+  },
+  {
+    "classe": "Sciences Humaines",
+    "name": "hindi",
+    "groupe": "langues, littérature et linguistique",
+    "sort": 841,
+    "_id": "SSZafC3Ewp47oSbx3"
+  },
+  {
+    "classe": "Sciences Humaines",
+    "name": "italien",
+    "groupe": "langues, littérature et linguistique",
+    "sort": 846,
+    "_id": "m7TemrrMXzgzzya9P"
+  },
+  {
+    "classe": "Sciences Humaines",
+    "name": "japonais",
+    "groupe": "langues, littérature et linguistique",
+    "sort": 851,
+    "_id": "jLdSAgX68wbH98Hvr"
+  },
+  {
+    "classe": "Sciences Humaines",
+    "name": "latin",
+    "groupe": "langues, littérature et linguistique",
+    "sort": 856,
+    "_id": "tZ2GmAqfXCrKftEMX"
+  },
+  {
+    "classe": "Sciences Humaines",
+    "name": "linguistique générale",
+    "groupe": "langues, littérature et linguistique",
+    "sort": 861,
+    "_id": "ns8S2NTi9ZbNyNjcB"
+  },
+  {
+    "classe": "Sciences Humaines",
+    "name": "littérature comparée",
+    "groupe": "langues, littérature et linguistique",
+    "sort": 866,
+    "_id": "zc5XK96zEF9A9JDE7"
+  },
+  {
+    "classe": "Sciences Humaines",
+    "name": "ourdou",
+    "groupe": "langues, littérature et linguistique",
+    "sort": 871,
+    "_id": "spt3ydgjCkyLLozrK"
+  },
+  {
+    "classe": "Sciences Humaines",
+    "name": "russe",
+    "groupe": "langues, littérature et linguistique",
+    "sort": 876,
+    "_id": "WaWrq6f8mhHuZ3h2F"
+  },
+  {
+    "classe": "Sciences Humaines",
+    "name": "sanskrit",
+    "groupe": "langues, littérature et linguistique",
+    "sort": 881,
+    "_id": "8wG9xmLomPH4pQFhS"
+  },
+  {
+    "classe": "Sciences Humaines",
+    "name": "traduction littéraire",
+    "groupe": "langues, littérature et linguistique",
+    "sort": 886,
+    "_id": "J67oPRpSM2qfNDBwf"
+  },
+  {
+    "classe": "Sciences Humaines",
+    "name": "musicologie",
+    "groupe": "musicologie",
+    "sort": 891,
+    "_id":"Gfzch5GBEZtxXTFu3"
+  },
+  {
+    "classe": "Sciences Humaines",
+    "name": "philosophie",
+    "groupe": "",
+    "sort": 896,
+    "_id": "MahWxn5HdNyYXnAhn"
+  },
+  {
+    "classe": "Sciences Humaines",
+    "name": "esthétique",
+    "groupe": "philosophie",
+    "sort": 901,
+    "_id": "RQynF78oLWNWedHuT"
+  },
+  {
+    "classe": "Sciences Humaines",
+    "name": "ethique et morale",
+    "groupe": "philosophie",
+    "sort": 906,
+    "_id": "XNh5B3S992ZwQWnPx"
+  },
+  {
+    "classe": "Sciences Humaines",
+    "name": "logique et philosophie des sciences",
+    "groupe": "philosophie",
+    "sort": 911,
+    "_id": "tAJGSt4x7ADSpcZef"
+  },
+  {
+    "classe": "Sciences Humaines",
+    "name": "métaphysique",
+    "groupe": "philosophie",
+    "sort": 916,
+    "_id": "aakxJn7kMZMKSFtGW"
+  },
+  {
+    "classe": "Sciences Humaines",
+    "name": "philosophe analytique",
+    "groupe": "philosophie",
+    "sort": 921,
+    "_id": "ferApBEgcsdm3WvWS"
+  },
+  {
+    "classe": "Sciences Humaines",
+    "name": "philosophie antique",
+    "groupe": "philosophie",
+    "sort": 926,
+    "_id": "HvcDAf9mAi8FJoQRi"
+  },
+  {
+    "classe": "Sciences Humaines",
+    "name": "philosophie contemporaine",
+    "groupe": "philosophie",
+    "sort": 931,
+    "_id": "eqHFonS2d72S9Frsk"
+  },
+  {
+    "classe": "Sciences Humaines",
+    "name": "philosophie du moyen âge",
+    "groupe": "philosophie",
+    "sort": 936,
+    "_id": "QvSo77nTfS2jy3GZ2"
+  },
+  {
+    "classe": "Sciences Humaines",
+    "name": "philosophie moderne",
+    "groupe": "philosophie",
+    "sort": 941,
+    "_id": "dbib8xmjEixk2ycRZ"
+  },
+  {
+    "classe": "Sciences Humaines",
+    "name": "philosophie politique, philosophie du droit",
+    "groupe": "philosophie",
+    "sort": 946,
+    "_id": "dFhym3t4PLRADDsgX"
+  },
+  {
+    "classe": "Sciences Politiques",
+    "name": "Sciences Politiques",
+    "groupe": "",
+    "sort": 951,
+    "_id": "LNK7atAQsHJjsEL6H"
+  },
+  {
+    "classe": "Sciences Politiques",
+    "name": "action collective",
+    "groupe": "",
+    "sort": 956,
+    "_id": "qKsidBDDfePcJDe4g"
+  },
+  {
+    "classe": "Sciences Politiques",
+    "name": "analyse de la gouvernance et de l'action publique",
+    "groupe": "",
+    "sort": 961,
+    "_id": "GYXR4WQFYYAwMEw7M2"
+  },
+  {
+    "classe": "Sciences Politiques",
+    "name": "histoire de la pensée économique et politique",
+    "groupe": "",
+    "sort": 966,
+    "_id": "bcLZrwmfujQKibqGC"
+  },
+  {
+    "classe": "Sciences Politiques",
+    "name": "management et gouvernance des organisations sportives",
+    "groupe": "",
+    "sort": 971,
+    "_id": "P8a5Ww3sKLZvjaRFW"
+  },
+  {
+    "classe": "Sciences Politiques",
+    "name": "mondialisation",
+    "groupe": "",
+    "sort": 976,
+    "_id": "Jh84c4AGXoGPTakFu"
+  },
+  {
+    "classe": "Sciences Politiques",
+    "name": "vie politique locale",
+    "groupe": "",
+    "sort": 981,
+    "_id": "r8NGA4PsWCAbQ7HZs"
+  },
+  {
+    "classe": "Sciences Sociales",
+    "name": "Sciences Sociales",
+    "groupe": "",
+    "sort": 986,
+    "_id": "SDLmSaiCndMTDJnMe"
+  },
+  {
+    "classe": "Sciences Sociales",
+    "name": "anthropologie",
+    "groupe": "",
+    "sort": 991,
+    "_id": "DsLpQNibrMMgFAnc4"
+  },
+  {
+    "classe": "Sciences Sociales",
+    "name": "anthropologie de la santé",
+    "groupe": "",
+    "sort": 996,
+    "_id": "k4bKKtKmoA3uiiLjJ"
+  },
+  {
+    "classe": "Sciences Sociales",
+    "name": "anthropologie des religions",
+    "groupe": "",
+    "sort": 1001,
+    "_id": "Sbag6irHySHwPmibh"
+  },
+  {
+    "classe": "Sciences Sociales",
+    "name": "culture et communication",
+    "groupe": "",
+    "sort": 1006,
+    "_id": "JsDF8kQBSGTqGYZHt"
+  },
+  {
+    "classe": "Sciences Sociales",
+    "name": "développement économique",
+    "groupe": "",
+    "sort": 1011,
+    "_id": "x7AwDKLKXW7sTue4s"
+  },
+  {
+    "classe": "Sciences Sociales",
+    "name": "éducation et apprentissage",
+    "groupe": "",
+    "sort": 1016,
+    "_id": "gFKTe3fpdBNgRJHtE"
+  },
+  {
+    "classe": "Sciences Sociales",
+    "name": "études genre",
+    "groupe": "",
+    "sort": 1021,
+    "_id": "gmzgbFxPrvBsz5RPL"
+  },
+  {
+    "classe": "Sciences Sociales",
+    "name": "identité et relations sociales",
+    "groupe": "",
+    "sort": 1026,
+    "_id": "Zmx9GgLPJobWuHjWD"
+  },
+  {
+    "classe": "Sciences Sociales",
+    "name": "parcours de vie",
+    "groupe": "",
+    "sort": 1031,
+    "_id": "Y8fvnP7wAQLSdcxcA"
+  },
+  {
+    "classe": "Sciences Sociales",
+    "name": "politique sociale",
+    "groupe": "",
+    "sort": 1036,
+    "_id": "RvEAgHPbftTP4F2Ra"
+  },
+  {
+    "classe": "Sciences Sociales",
+    "name": "protection inégalités sociales",
+    "groupe": "",
+    "sort": 1041,
+    "_id": "r3XRDWi65qHAcmAEn"
+  },
+  {
+    "classe": "Sciences Sociales",
+    "name": "religions et migrations",
+    "groupe": "",
+    "sort": 1046,
+    "_id": "utcsdzZ6msFMnPQBF"
+  },
+  {
+    "classe": "Sciences Sociales",
+    "name": "sociologie",
+    "groupe": "",
+    "sort": 1051,
+    "_id": "SQFZWryf4MinFqtBy"
+  },
+  {
+    "classe": "Sciences Sociales",
+    "name": "sociologie des religions",
+    "groupe": "",
+    "sort": 1056,
+    "_id": "YDTdC7gHmNKox2HdB"
+  },
+  {
+    "classe": "Sciences Sociales",
+    "name": "sociologie du sport",
+    "groupe": "",
+    "sort": 1061,
+    "_id": "XkQ7WaHoPp5Y8tqti"
+  },
+  {
+    "classe": "spécifiez avec les mots-clés ci-dessous...",
+    "name": "Autre",
+    "groupe": "",
+    "sort": 3000,
+    "_id": "njsLz3H9YzEFHDPBY"
+  }
+]

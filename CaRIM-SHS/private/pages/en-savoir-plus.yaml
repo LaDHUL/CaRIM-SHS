@@ -1,0 +1,147 @@
+page: en-savoir-plus
+titre: En savoir plus
+contenu:
+  - |
+    La collecte des données constitue l’étape critique du projet: sans ces informations, rien n’est possible.
+  - |
+    Or, ces données n’existent pas à l’heure actuelle dans l’institution. Il est donc nécessaire, pour les construire, de solliciter les collaborateurs de l’Unil. Un questionnaire dédié à ce travail de collecte a été conçu et développé spécifiquement dans ce but.
+
+parties:
+  - doc:
+      page: publicvise
+      titre: Public visé
+      contenu:
+        - |
+          Le <b>public visé</b> par CaRIM-SHS est large: sont concernés par ce projet tous les collaborateurs de l’Unil (enseignants, doctorants et post-doctorants, PAT, etc.) en sciences humaines et sociales dont les activités de recherche, d’enseignement ou de support (à la recherche ou à l’enseignement) comportent ou ont comporté directement ou indirectement une composante numérique forte. La notion de «<b> composante numérique forte </b>» vise à exclure l’utilisation des outils les plus communs: bureautique (packs Libre Office, Microsoft Office, etc.), gestionnaires d’emails, réseaux sociaux académiques ou non (Academia.edu, ResearchGate, Facebook, Twitter, LinkedIn), services en ligne proposant le dépôt et/ou le partage de contenu (Dropbox, SlideShare, GoogleDocs mais aussi Serval, Zenodo, etc.).
+        - |
+          A titre d’exemple, Carim-SHS est intéressé par:
+        - liste:
+            - les utilisations de LaTeX, mais pas l’usage d’un traitement de texte tel que LibreOffice Writer ou Microsoft Word ;
+            - une utilisation avancée d’un logiciel de tableur incluant du VBA et/ou des plug-ins, mais pas un usage « standard » du même logiciel, avec tableaux croisés dynamiques et/ou graphiques ;
+            - l’utilisation de l’API de Twitter pour collecter un matériau qui sera ensuite retraité, mais pas l’utilisation personnelle des réseaux sociaux ;
+            - la conception ou l’utilisation d’une base de données dans le cadre d’un projet de recherche personnel ou collaboratif (Lumières.Lausanne, Viatimages, etc.).
+  - doc:
+      page: nature-des-donnes
+      titre: Nature des données collectées
+      parties:
+        - doc:
+            titre: Environnement numérique
+            contenu:
+              - |
+                Les données sur les pratiques numériques que nous souhaitons documenter sont de quatre types:
+              - liste:
+                - >
+                  les outils numériques, logiciels applicatifs, technologies et langagues informatiques (par exemple: QGIS, <i>Application Programming Interface</i>, R, <i>Content Management System</i>, etc.) qui, pour faciliter la saisie des données, sont présentés sur un même plan dans un référentiel « plat »  ;
+                - la fréquence d’utilisation et le niveau de compétences pour chacun de ces outils ;
+                - >
+                  la nature des données  auxquelles sont appliqués ces outils/technologies (par exemple: image (2D), données qualitatives, données du web, géodonnées, etc.) ;
+                - >
+                  les finalités ou les méthodologies de travail qui justifient ou sous-tendent le recours à un outil numérique; plusieurs finalités ou méthodologies peuvent être associées à un outil/technologie), par exemple :
+                - liste:
+                  - >
+                    pour un CMS : <b>Diffusion > Editorialisation de données </b>;
+                  - >
+                    pour R : <b>Traitements > Analyse > Analyse statistique </b>;
+                  - >
+                    pour une API: <b>Acquisition de données > Collecte de données existantes > Extraction automatique de données </b>;
+                  - >
+                    pour QGIS: <b>Traitements > Préparation des données > Gestion des données > Système d'information > Système d’information géographique</b> et <b>Création propre > Enrichissement de données > Annotation > Encodage > Saisie de données</b>.
+                - le cadre dans lequel ces outils/technologies sont mobilisés (recherche, enseignement, support à la recherche ou à l’enseignement).
+              - |
+                Pour chaque questionnaire individuel, ces informations sont collectées à deux niveaux :
+              - liste:
+                - niveau du chercheur (pratiques et des compétences numériques personnelles);
+                - niveau des projets (outils/technologies mobilisés et/ou développés en collaboration dans le cadre d’un projet lié à la recherche, à l’enseignement ou au support).
+        - doc:
+            page: cherceurs-projets
+            titre: Chercheurs & projets
+            contenu:
+              - |
+                Des données complémentaires sont récoltées pour les chercheurs :
+              - liste:
+                - le rattachement institutionnel (extrait automatiquement de la base de données publique Unil) ;
+                - les champs disciplinaires <a href="http://platec.unil.ch/carim-shs/domaines" target="_blank">lien vers le déroulé du référentiel</a> dans lesquels s’inscrivent les activités de recherche, d’enseignement et/ou de support du chercheur ;
+                - une liste de mots-clés, constituée à partir de la base de données Unisciences, qui permet d’affiner la classification par champs disciplinaires pour caractériser plus spécifiquement les activités de recherche, d’enseignement et/ou de support des chercheurs ;
+              - |
+              - >
+                Les projets pour lesquels CaRIM-SHS souhaite rendre compte de l’utilisation d’outils/technologies numériques remplissent les critères suivants :
+              - liste:
+                - avec ou sans financement,
+                - en cours ou terminé,
+                - collaboration d'au moins deux chercheurs (Unil ou autre),
+                - forte composante numérique et, le cas échéant, développement d’outils dans le cadre du projet.
+              - |
+                Seuls les responsables de projet sont autorisés à documenter les projets. En revanche, les collaborateurs de ces projet peuvent indiquer le titre du projet ainsi que le nom du responsable, qui sera ensuite sollicité pour renseigner lui-même les métadonnées du projet.
+              - |
+               Pour les projets de recherche répondants aux critères ci-dessus, des informations complémentaires sont requises :
+              - liste:
+                - provenance du financement (si non financé par le FNS) ;
+                - titre du projet ;
+                - mots-clés libres définissant le projet ;
+                - noms du/des requérants principaux ;
+                - noms du/des collaborateurs Unil ;
+                - dates de début/fin ;
+                - cadre du projet (recherche, enseignement, support à la recherche ou à l’enseignement) ;
+                - champ(s) disciplinaire(s) dans le(s)quel(s) s’inscrit le projet;
+                - >
+                  numéro du projet FNS (à partir de cette information, les données de la base de données publique du FNS seront extraites : titre, disciplines, requérant Unil, collaborateurs Unil, mots-clés, début/fin).
+
+        - doc:
+            page: referenciels
+            titre: Référentiels
+            contenu:
+              - |
+                Disciplines et définition des activités de recherche/enseignement/support :
+              - liste:
+                  - Champs disciplinaires <a href="http://platec.unil.ch/carim-shs/domaines" target="_blank">lien vers le déroulé du référentiel</a>;
+                  - Mots-clés.
+              - |
+                Environnement numérique :
+              - liste:
+                - Finalités et méthodologies liées à l'utilisation des outils numériques <a href="http://platec.unil.ch/carim-shs/finalites" target="_blank">lien vers le déroulé du référentiel</a>;
+                - Outils numériques;
+                - Nature des données.
+  - doc:
+      page: protection
+      titre: Conditions d’utilisation et protection des données
+      contenu:
+        - |
+          Les données recueillies dans le cadre du projet CaRIM-SHS sont récoltées à des fins de valorisation et de partage des pratiques et compétences numériques mobilisées par les SHS à l’Unil et seront donc, en partie, rendues publiques sur le web, notamment sous la forme d’un réseau d'association entre domaines et pratiques.
+        - |
+        - >
+          Les données publiées sur le web représenteront les répondants nommément avec, en plus de leur environnement numérique, le(s) rattachement(s) institutionnel(s) publié(s) sur leur profil Unisciences. <b>Le niveau de compétences et la fréquence d’utilisation des outils et technologies resteront cependant des données entièrement privées</b>. Les répondants ont la possibilité de s’opposer à la publication de ces données dans la cartographie finale : il leur suffit de déclarer vouloir apparaître dans la cartographie finale comme un vertex (individu) non nommé. Dans ce cas, les répondants figureront comme des individus non nommés, avec les données associées:
+        - liste:
+          - à leur environnement numérique (à l’exception du niveau de compétences et de la fréquence d’utilisation des outils numériques),
+          - aux projets documentés dans lesquels ils sont impliqués.
+        - |
+          Les données personnelles des répondants seront conservées par la Plateforme Technique du LaDHUL dans une base de données à l’accès limité à la PlaTec et à l’équipe du projet CaRIM-SHS. De cette manière, la PlaTec et l’équipe de CaRIM-SHS pourront, d’une part, garder le contact avec les répondants pour mettre à jour les informations les concernant et, d’autre part, exploiter cette base de données pour solliciter conseils et expertises de la part des répondants dans des domaines dont ils sont spécialistes, notamment pour orienter des chercheurs de l’Unil dans leur pratique. Les répondants qui ne souhaitent pas être contactés dans cette dernière optique peuvent simplement, à tout moment, exprimer leurs réserves à cet égard à cette adresse : <b>platec-ladhul@unil.ch</b>.
+  - doc:
+      page: saisie
+      titre: Instructions générales pour la saisie
+      contenu:
+        - |
+          Un identifiant Unil est nécessaire pour accéder au questionnaire. Les données d’une session sont enregistrées et permettent de remplir ce questionnaire en plusieurs fois.
+        - |
+          Après s’être identifié, le répondant accède à un formulaire dans lequel certaines données pré-saisies. Il lui reste, d’une part, à documenter son environnement numérique personnel et, d’autre part, celui des projets qu'il a dirigés ou co-dirigés.
+        - |
+           Certains des référentiels établis dans le cadre du projet CaRIM-SHS sont fixes (Champs disciplinaires <a href="http://platec.unil.ch/carim-shs/domaines" target="_blank">lien vers le déroulé du référentiel</a>, Finalités et méthodologies <a href="http://platec.unil.ch/carim-shs/finalites" target="_blank">lien vers le déroulé du référentiel</a>, Nature des données). D’autres, au contraire, peuvent être librement édités par les répondants : Mots-clés, Outils numériques.
+        - |
+          Si vous souhaitez introduire une nouvelle entrée dans le référentiel Mots-clés, nous vous recommandons de choisir un mot-clé susceptible de qualifier au minimum un autre chercheur de l’Unil en plus de vous-même. Ces mots-clés devront être des concepts simples (par exemple : « Occupation du sol », « Milieu aride » plutôt que « Occupation du sol en milieu aride »), qui peuvent être combinés entre eux pour définir précisément une sous-discipline de recherche.
+        - |
+          Certains référentiels correspondent à des listes « plates », à un seul niveau, alors que d’autres sont des listes hiérarchiques, à plusieurs niveaux. Dans le cas des listes hiérarchiques, il est tout à fait possible pour le répondant de renseigner seulement le ou les premiers niveaux, qui correspondent à un plus haut degré de généralité.
+        - |
+          Pour offrir plus de flexibilité dans la saisie, l’environnement numérique de travail peut être décrit selon différents angles :
+        - liste:
+          - >
+            par exemple, en partant des « types de données » :<br><br>
+            <table class='table table-bordered'>              <tr>              <th>Nature des données</th>              <th>Finalité(s)/méthode(s)</th>              <th>Outil(s) numérique(s)</th>          </tr>          <tr>              <td>Géodonnées</td>              <td>Traitements > Gestion des données > Système d'information > Système d'information géographique</td>              <td>QGIS</td>          </tr>        </table>
+          - >
+            en partant des « outils et technologies » :<br><br>
+            <table class='table table-bordered'>                <tr>              <th>Outil(s) numérique(s)</th>              <th>Finalité(s)/méthode(s)</th>              <th>Nature des données</th>          </tr>          <tr>              <td rowspan=2>MySQL/PHPMyAdmin</td>              <td>Traitements > Gestion des données > Système d'information > Base de données</td>              <td>Données qualitatives</td>          </tr>          <tr>              <td>Création propre > Enrichissement de données > Annotation > Encodage > Saisie de données</td>              <td>Données qualitatives</td>          </tr></table>
+          - >
+            en partant des « finalités des méthodes et activités de recherche » :<br><br>
+            <table class='table table-bordered'>             <tr>        <th>Finalité(s)/méthode(s)</th>        <th>Outil(s) numérique(s)</th>        <th>Nature des données</th>        </tr>        <tr>        <td rowspan=4>Traitements > Gestion des données > Système d'information > Base de données</td>        <td rowspan=2>PostgreSQL</td>        <td>Données qualitatives</td>        </tr>        <tr>        <td>Géodonnées</td>        </tr>        <td rowspan=2>PostGIS</td>        <td>Données qualitatives</td>        </tr>        <tr>        <td>Géodonnées</td>        </tr></table>
+
+        - >
+          Quel que soit le référentiel choisi comme point de départ, plusieurs entrées sont ensuite possibles pour le référentiel suivant.<br> Inversement, il est aussi possible de ne choisir aucune entrée pour un ou plusieurs référentiels donnés :<br><br>
+          <table class='table table-bordered'>               <tr>              <th>Finalité(s)/méthode(s)</th>              <th>Outil(s) numérique(s)</th>              <th>Nature des données</th>          </tr>          <tr>              <td>Traitements > Gestion des données > Archivage à long terme</td>              <td>SIARD</td>              <td></td>          </tr>      </table>

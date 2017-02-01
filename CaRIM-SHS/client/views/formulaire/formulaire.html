@@ -1,0 +1,280 @@
+<template name="formulaire">
+    {{#if ready }}
+        <div class="panel panel-default">
+            {{> heading type="personne_info"}}
+            {{> quickForm id="personne_info" schema=InputSchema.personne
+          collection="Inputs.personne"  doc=personne type="update" name="personne.info"}}
+        </div>
+        <div class="panel panel-default">
+            {{> heading type="personne_unites"}}
+            {{> display personne_unites}}
+            {{> treeForm id="personne_unites" selected=personne_unites collection="Inputs.personne_unites" type="insert" schema=InputSchema.personne_unites datatype="unites" resetOnSuccess=true}}
+        </div>
+        <div class="panel panel-default">
+            {{> heading type="personne_activites"}}
+            {{> quickForm id="personne_activites"
+          collection="Inputs.personne_activites" doc=personne_activites schema=InputSchema.personne_activites type="update"}}
+        </div>
+        <div class="panel panel-default">
+            {{> heading type="personne_domaines" showdatabutton=true}}
+            {{> display personne_domaines}}
+            {{> quickForm id="personne_domaines" collection="Inputs.personne_domaines" schema=InputSchema.personne_domaines type="insert" resetOnSuccess=true preserveForm=true}}
+        </div>
+        <div class="panel panel-default">
+            {{> heading type="competences"}}
+            {{#each competence}}
+                <div class="panel-body">
+                    {{prepare_competence}}
+                    {{#if competenceIsSelected}}
+                        <div class="panel panel-primary">
+                            {{> heading type="competence" id=this._id}}
+                            <div class="panel-body">
+                                {{> competences_ordre_form}}
+                                {{#each competences_ordre}}
+                                    {{#if type_finalite}}
+                                        {{> miniheading  type="competence_finalites" showdatabutton=true}}
+                                        {{> display competence_finalites }}
+                                        {{> quickForm id="competence_finalites" selected=competence_finalites collection="Inputs.competence_finalites" schema=InputSchema.competence_finalites type="insert" datatype="finalites" resetOnSuccess=true}}
+                                    {{else}}
+                                        {{#if type_logiciel}}
+                                            {{> miniheading type="competence_logiciels"}}
+                                            {{>display competence_logiciels}}
+                                            {{> lc }}
+                                        {{else}}
+                                            {{> miniheading type="competence.objets"}}
+                                            {{>display competence_objets }}
+                                            {{>quickForm id="competence_objets" collection="Inputs.competence_objets" type="insert" schema=InputSchema.competence_objets resetOnSuccess=true}}
+                                        {{/if}}
+                                    {{/if}}
+                                {{/each}}
+                            </div>
+                        </div>
+                    {{else}}
+                        <div class="panel-body">
+                            <div class="panel panel-default">
+                                <div class="panel-heading">
+                                    <h5>{{getTxt "competence" "titre"}}</h5>
+                                </div>
+                                <div class="panel-body">
+                                    {{#each competences_ordre}}
+                                        <div class="col-sm-4">
+                                            {{#if type_finalite}}
+                                                <h4>{{getTxt "competence_finalites" "titre"}}</h4>
+                                                {{>displayComp competence_finalites}}
+                                            {{else}}
+                                                {{#if type_logiciel}}
+                                                    <h4>{{getTxt "competence_logiciels" "titre"}}</h4>
+                                                    {{>displayComp competence_logiciels }}
+
+                                                {{else}}
+                                                    <h4>{{getTxt "competence_objets" "titre"}}</h4>
+                                                    {{>displayComp competence_objets}}
+                                                {{/if}}
+                                            {{/if}}
+                                        </div>
+                                    {{/each}}
+                                    <button class="btn btn-default btn-block" data-action="editcompetence">{{getTxt "competence" "buttonediter"}}</button>
+                                    <button class="btn btn-warning btn-block" data-action="removecompetence">
+                                        <span class="glyphicon glyphicon-minus visible-xs"></span>
+                                        <span class="hidden-xs">{{getTxt "competence" 'buttonsupprimer'}}</span>
+                                    </button>
+
+                                </div>
+                            </div>
+                        </div>
+                    {{/if}}
+
+                </div>
+            {{/each}}
+
+            <div class="panel-body">
+                {{#if showCompetencesClose}}
+                    <button class="btn btn-default btn-block" data-action="closecompetence">{{getTxt "competence" "buttonfermer"}}</button>
+                {{/if}}
+                {{#if showCompetencesAdd}}
+                    <button class="btn btn-default btn-block" data-action="addcompetence">{{getTxt "competence" "buttonajouter"}}</button>
+                {{/if}}
+            </div>
+
+        </div>
+        <div class="panel panel-default">
+            {{> heading type="projets" id=this._id}}
+            <div class="panel-body">
+                {{#if showProjetsClose}}
+                    {{> quickForm id="projets" collection="Inputs.projets" doc=projets schema=InputSchema.projets type="disabled" fields="question" }}
+                {{else}}
+                    {{> quickForm id="projets" collection="Inputs.projets" doc=projets schema=InputSchema.projets type="update" fields="question"}}
+                {{/if}}
+            </div>
+
+            {{#if showProjets}}
+
+                {{#each projets_projet}}
+                    {{prepare_projet}}
+                    {{#if projetIsSelected}}
+                        {{#unless projet_info}}
+                            <div class="panel-body">
+                                <div class="panel panel-default">
+                                    {{> heading type="projet" id=this._id}}
+                                    <div class="panel-body">
+                                        {{> miniheading type="projet_info"}}
+
+
+                                        {{#autoForm id="projet_info" collection="Inputs.projet_info" schema=InputSchema.projet_info  type="insert"}}
+                                          <div class="projet_info">
+                                            {{> afQuickField name="nom"}}
+                                            {{> afQuickField name="debut"}}
+                                            {{> afQuickField name="fin"}}
+                                            {{> afQuickField name="idFNS"}}
+
+                                            {{> miniheading type="projet.motscles"}}
+                                            {{> afQuickField name="motscles"}}
+
+                                            {{> miniheading type="projet.activites"}}
+                                            {{> afQuickField name="activites"}}
+
+                                            <button type="submit" class="btn btn-block btn-default">
+                                                {{getTxt "projet_info" 'buttonvalider'}}
+                                            </button>
+                                          </div>
+                                        {{/autoForm}}
+                                    </div>
+                                </div>
+                            </div>
+                        {{else}}
+                            <div class="panel-body">
+                                <div class="panel panel-primary">
+                                    {{> heading type="projet" id=this._id}}
+                                    <div class="panel-body">
+                                        {{> miniheading type="projet_info"}}
+                                        {{#autoForm id="projet_info"  collection="Inputs.projet_info" doc=projet_info  type="update" resetOnSuccess=false schema=InputSchema.projet_info}}
+                                          <div class="projet_info">
+                                            {{> afQuickField name="nom"}}
+                                            {{> afQuickField name="debut"}}
+                                            {{> afQuickField name="fin"}}
+                                            {{> afQuickField name="idFNS"}}
+
+                                            {{> miniheading type="projet_motscles"}}
+                                            {{> afQuickField name="motscles"}}
+
+                                            {{> miniheading type="projet_activites"}}
+                                            <div class="col-xs-12">
+                                                {{> afQuickField name="activites"}}
+                                            </div>
+                                            <div class="col-xs-12">
+                                                <button type="submit" class="btn btn-block btn-default">
+                                                    {{getTxt "projet_info" 'buttonvalider'}}
+                                                </button>
+                                            </div>
+                                          </div>
+                                            <div class="projet_collaborateurs">
+                                            {{> miniheading type="projet_collaborateurs"}}
+                                            <div class="col-xs-12">
+                                            {{> afQuickField name="collaborateurs"}}
+                                        </div>
+                                            <div class="col-xs-12">
+                                                <button type="submit" class="btn btn-block btn-default">
+                                                    {{getTxt "projet_info" 'buttonvalider'}}
+                                                </button>
+                                            </div>
+                                          </div><div class="projet_financements">
+                                            {{> miniheading type="projet_financements"}}
+                                            <div class="col-xs-12">
+                                                {{> afQuickField name="financements"}}
+                                            </div>
+                                            <div class="col-xs-12">
+                                                <button type="submit" class="btn btn-block btn-default">
+                                                    {{getTxt "projet_info" 'buttonvalider'}}
+                                                </button>
+                                            </div>
+                                          </div>
+                                        {{/autoForm}}
+                                    </div>
+                                    <div class="panel-body">
+                                        {{> miniheading type="projet_unites"}}
+                                        {{> display projet_unites}}
+                                        {{> treeForm id="projet_unites" selected=projet_unites collection="Inputs.projet_unites" schema=InputSchema.projet_unites  type="insert" datatype="unites" resetOnSuccess=true}}
+                                    </div>
+                                    <div class="panel-body">
+                                        {{> miniheading type="projet_logiciels"}}
+                                        {{> display projet_logiciels}}
+                                        {{> quickForm id="projet_logiciels" collection="Inputs.projet_logiciels" schema=InputSchema.projet_logiciels type="insert"  resetOnSuccess=true}}
+                                    </div>
+                                    <div class="panel-body">
+                                        {{> miniheading type="projet_finalites" showdatabutton=true}}
+                                        {{> display projet_finalites}}
+                                        {{> quickForm id="projet_finalites" selected=projet_finalites collection="Inputs.projet_finalites" type="insert" schema=InputSchema.projet_finalites  datatype="finalites" resetOnSuccess=true}}
+                                    </div>
+                                    <div class="panel-body">
+                                        {{> miniheading type="projet_objets"}}
+                                        {{> display projet_objets}}
+                                        {{> quickForm id="projet_objets" collection="Inputs.projet_objets" type="insert"  schema=InputSchema.projet_objets resetOnSuccess=true }}
+
+                                    </div>
+                                </div>
+                            </div>
+                        {{/unless}}
+                        {{#if showProjetsClose}}
+                            <div class="panel-body">
+                                <button class="btn btn-info btn-block" data-action="closeprojet">{{getTxt "projet" "buttonfermer"}}</button>
+                            </div>
+                        {{/if}}
+                    {{else}}
+                        {{#with projet_info}}
+                            <div class="panel-heading" id="projet_{{this._id}}">
+                                <h5>{{getTxt "projet" "titre"}}</h5>
+                            </div>
+                            <div class="panel-body">
+                                <div class="col-xs-3">
+                                    <h5>
+                                        <b>{{nom}}</b>
+                                    </h5>
+                                </div>
+                                <div class="col-xs-5">
+                                    <p>
+                                        {{debut}}
+                                        -
+                                        {{fin}}
+                                    </p>
+                                </div>
+                                <div class="col-xs-2">
+                                    <button class="btn btn-default btn-block" data-action="editprojet">{{getTxt "projet" "buttonediter"}}</button>
+                                </div>
+                                <div class="col-xs-2">
+                                    <button class="btn btn-warning btn-block" data-action="removeprojet">
+                                        <span class="glyphicon glyphicon-minus visible-xs"></span>
+                                        <span class="hidden-xs">{{getTxt "projet" 'buttonsupprimer'}}</span>
+                                    </button>
+                                </div>
+                            </div>
+                        {{/with}}
+                    {{/if}}
+                {{/each}}
+                {{#if showProjetsAdd}}
+                    <div class="panel-body">
+                        <button class="btn btn-default btn-block" data-action="addprojet">{{getTxt "projet" "buttonajouter"}}</button>
+                    </div>
+                {{/if}}
+            {{/if}}
+        </div>
+        <div class="panel panel-default">
+            {{> heading type="collegues"}}
+            {{> quickForm id="collegues" collection="Inputs.collegues" doc=collegues  type="update"  schema=InputSchema.collegues resetOnSuccess=false}}
+        </div>
+        <div class="panel panel-default">
+            {{> Template.dynamic template="remarques" data="generales"}}
+        </div>
+        <div class="panel panel-default">
+            <div class="panel-body">
+                <p>
+                    <b>
+                        {{getTxt "remerciments" "texte"}}
+                    </b>
+                </p>
+            </div>
+        </div>
+    {{else}}
+        {{> spinner }}
+    {{/if}}
+
+</template>
