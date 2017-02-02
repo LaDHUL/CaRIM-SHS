@@ -53,7 +53,7 @@ domaineSchema = new SimpleSchema([{
               sort: 1
             }
           }).map(function(doc) {
-            doc.label = doc.name + " " + doc.classe + " " + doc.groupe;
+            doc.label = doc.name + ( doc.classe ? " ( " + doc.classe  +  ( doc.groupe ? ", " + doc.groupe + " ) " : " ) " ) : + (doc.groupe ? " ( " + doc.groupe + " )" : ""));
             doc.value = doc._id
             return doc
           });

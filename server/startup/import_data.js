@@ -11,6 +11,7 @@ Import.pages = function() {
 	var obj;
 	var yaml = require('js-yaml');
 	_.each(pageFiles, function(pfile) {
+
 		try {
 			obj = yaml.safeLoad(Assets.getText(pfile));
 			pages[obj.page] = obj;
